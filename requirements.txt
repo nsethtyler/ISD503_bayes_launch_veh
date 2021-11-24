@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+bnlearn
+pandas_datareader
+openpyxl
+seaborn
+networkx
+pgmpy
+pybbn
