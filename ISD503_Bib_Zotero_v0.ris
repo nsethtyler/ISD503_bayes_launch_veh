@@ -1,0 +1,2797 @@
+TY  - JOUR
+TI  - Probability of Infancy Problems for Space Launch Vehicles
+AU  - Guikema, Seth D.
+AU  - Paté-Cornell, M. Elisabeth
+T2  - Reliability Engineering & System Safety
+AB  - This paper addresses the treatment of ‘infancy problems’ in the reliability analysis of space launch systems. To that effect, we analyze the probability of failure of launch vehicles in their first five launches. We present methods and results based on a combination of Bayesian probability and frequentist statistics designed to estimate the system's reliability before the realization of a large number of launches. We show that while both approaches are beneficial, the Bayesian method is particularly useful when the experience base is small (i.e. for a new rocket). We define reliability as the probability of success based on a binary failure/no failure event. We conclude that the mean failure rates appear to be higher in the first and second flights (≈1/3 and 1/4, respectively) than in subsequent ones (third, fourth and fifth), and Bayesian methods do suggest that there is indeed some difference in launch risk over the first five launches. Yet, based on a classical frequentist analysis, we find that for these first few flights, the differences in the mean failure rates over successive launches or over successive generations of vehicles, are not statistically significant (i.e. do not meet a 95% confidence level). This is true because the frequentist analysis is based on a fixed confidence level (here: 95%), whereas the Bayesian one allows more flexibility in the conclusions based on a full probability density distribution of the failure rate and therefore, permits better interpretation of the information contained in a small sample. The approach also gives more insight into the considerable uncertainty in failure rate estimates based on small sample sizes.
+DA  - 2005/03/01/
+PY  - 2005
+DO  - 10.1016/j.ress.2004.06.001
+DP  - ScienceDirect
+VL  - 87
+IS  - 3
+SP  - 303
+EP  - 314
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 0951-8320
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832004001280
+Y2  - 2021/09/15/13:51:43
+L2  - http://www.sciencedirect.com/science/article/pii/S0951832004001280
+KW  - Bayesian analysis
+KW  - Failure probability
+KW  - Infancy problems
+KW  - Launch vehicles
+KW  - Reliability
+KW  - Rockets
+ER  - 
+
+TY  - JOUR
+TI  - A survey of safety separation management and collision avoidance approaches of civil UAS operating in integration national airspace system
+AU  - Guan, Xiangmin
+AU  - Lyu, Renli
+AU  - Shi, Hongxia
+AU  - Chen, Jun
+T2  - Chinese Journal of Aeronautics
+T3  - SI: Emerging Technologies of Unmanned Aerial Vehicles
+AB  - Recent years have witnessed a booming of the industry of civil Unmanned Aircraft System (UAS). As an emerging industry, the UAS industry has been attracting great attention from governments of all countries and the aviation industry. UAS are highly digitalized, informationized, and intelligent; therefore, their integration into the national airspace system has become an important trend in the development of civil aviation. However, the complexity of UAS operation poses great challenges to the traditional aviation regulatory system and technical means. How to prevent collisions between UASs and between UAS and manned aircraft to achieve safe and efficient operation in the integrated operating airspace has become a common challenge for industry and academia around the world. In recent years, the international community has carried out a great amount of work and experiments in the air traffic management of UAS and some of the key technologies. This paper attempts to make a review of the UAS separation management and key technologies in collision avoidance in the integrated airspace, mainly focusing on the current situation of UAS Traffic Management (UTM), safety separation standards, detection system, collision risk prediction, collision avoidance, safety risk assessment, etc., as well as an analysis of the bottlenecks that the current researches encountered and their development trends, so as to provide some insights and references for further research in this regard. Finally, this paper makes a further summary of some of the research highlights and challenges.
+DA  - 2020/11/01/
+PY  - 2020
+DO  - 10.1016/j.cja.2020.05.009
+DP  - ScienceDirect
+VL  - 33
+IS  - 11
+SP  - 2851
+EP  - 2863
+J2  - Chinese Journal of Aeronautics
+LA  - en
+SN  - 1000-9361
+UR  - https://www.sciencedirect.com/science/article/pii/S100093612030220X
+Y2  - 2021/09/12/15:39:14
+L1  - http://www.sciencedirect.com/science/article/pii/S100093612030220X/pdfft?md5=cc6796d968cea42859b38855dcbcd533&pid=1-s2.0-S100093612030220X-main.pdf&isDTMRedir=Y
+L2  - http://www.sciencedirect.com/science/article/pii/S100093612030220X?dgcid=raven_sd_recommender_email
+KW  - Air transportation
+KW  - Collision avoidance
+KW  - Safety
+KW  - Separation control
+KW  - Unmanned aircraft system
+ER  - 
+
+TY  - ELEC
+TI  - Business Insights: Essentials
+UR  - https://bi-gale-com.proxy.lib.umich.edu/essentials/showpdf?pdfdocid=336400_plunkett
+Y2  - 2021/09/08/02:47:09
+L2  - https://bi-gale-com.proxy.lib.umich.edu/essentials/showpdf?pdfdocid=336400_plunkett
+ER  - 
+
+TY  - JOUR
+TI  - Bayesian Analysis of Launch Vehicle Success Rates
+AU  - Guikema, Seth D.
+AU  - Paté-Cornell, M. Elisabeth
+T2  - Journal of Spacecraft and Rockets
+AB  - In the choosing of a launch vehicle for a given mission or in the determination of insurance coverage and premiums foragiven launch, accurate estimates of the probability of success of the different launch vehicles provide important information. There are three general approaches to estimating the probability of launch success. The first is to
+use a probabilistic risk analysis, decomposing the system into its subsystems and components and estimating the
+probability of each of the failure modes. The second is to rely on expert judgment about the vehicle’s success rate
+as a whole, without a functional decomposition of the system. The third is to use statistical data about the past
+performance of the system to estimate the vehicle’s success rate. The focus is put on this last approach, using
+Bayesian probability theory to make better use of vehicle-level performance data. The procedure is demonstrated by an analysis of the success rates of most of the major families of launch vehicles currently in use in the world.
+A family of launch vehicles includes all variants of a particular type of vehicle from a specific manufacturer, for
+example, the Delta 2. For vehicles with a small number of launch attempts, the Bayesian approach provides the
+advantage over classic statistical approaches of yielding estimates of both the mean future frequency of success and the uncertainty about that mean.
+DA  - 2004/01/01/
+PY  - 2004
+DO  - 10.2514/1.9268
+DP  - arc.aiaa.org (Atypon)
+VL  - 41
+IS  - 1
+SP  - 93
+EP  - 102
+SN  - 0022-4650
+UR  - https://arc.aiaa.org/doi/10.2514/1.9268
+Y2  - 2021/09/07/14:06:17
+KW  - Rockets
+KW  - Bayesian Approach
+KW  - Computing
+KW  - Gamma Function
+KW  - Launch Vehicles
+KW  - Numerical Integration
+KW  - Probability Density Functions
+KW  - Solid Propellants
+KW  - Space Shuttle
+KW  - Space Shuttle Challenger
+ER  - 
+
+TY  - RPRT
+TI  - Method for forecasting repair and replacement needs for Naval aircraft. Phase 2
+AU  - DeLozier, R. C.
+AU  - Wilkinson, V. K.
+AB  - The U.S. Department of Energy's Office of Scientific and Technical Information
+DA  - 1986/09/01/
+PY  - 1986
+DP  - www.osti.gov
+LA  - English
+PB  - Oak Ridge National Lab., TN (USA)
+SN  - ORNL/TM-10179
+UR  - https://www.osti.gov/biblio/5065493
+Y2  - 2021/09/21/13:41:52
+L1  - https://www.osti.gov/servlets/purl/5065493
+L2  - https://www.osti.gov/biblio/5065493
+ER  - 
+
+TY  - JOUR
+TI  - Challenges and Opportunities of AI-Enabled Monitoring, Diagnosis & Prognosis: A Review
+AU  - Zhao, Zhibin
+AU  - Wu, Jingyao
+AU  - Li, Tianfu
+AU  - Sun, Chuang
+AU  - Yan, Ruqiang
+AU  - Chen, Xuefeng
+T2  - Chinese Journal of Mechanical Engineering
+AB  - Prognostics and Health Management (PHM), including monitoring, diagnosis, prognosis, and health management, occupies an increasingly important position in reducing costly breakdowns and avoiding catastrophic accidents in modern industry. With the development of artificial intelligence (AI), especially deep learning (DL) approaches, the application of AI-enabled methods to monitor, diagnose and predict potential equipment malfunctions has gone through tremendous progress with verified success in both academia and industry. However, there is still a gap to cover monitoring, diagnosis, and prognosis based on AI-enabled methods, simultaneously, and the importance of an open source community, including open source datasets and codes, has not been fully emphasized. To fill this gap, this paper provides a systematic overview of the current development, common technologies, open source datasets, codes, and challenges of AI-enabled PHM methods from three aspects of monitoring, diagnosis, and prognosis.
+DA  - 2021/12//
+PY  - 2021
+DO  - 10.1186/s10033-021-00570-7
+DP  - DOI.org (Crossref)
+VL  - 34
+IS  - 1
+SP  - 56
+J2  - Chin. J. Mech. Eng.
+LA  - en
+SN  - 1000-9345, 2192-8258
+ST  - Challenges and Opportunities of AI-Enabled Monitoring, Diagnosis & Prognosis
+UR  - https://cjme.springeropen.com/articles/10.1186/s10033-021-00570-7
+Y2  - 2021/09/21/13:40:06
+L1  - https://link.springer.com/content/pdf/10.1186/s10033-021-00570-7.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Guided Simulation for Dynamic Probabilistic Risk Assessment of Complex Systems: Concept, Method, and Application
+AU  - Hu, Yunwei
+AU  - Parhizkar, Tarannom
+AU  - Mosleh, Ali
+T2  - Reliability Engineering & System Safety
+AB  - Probabilistic risk assessment (PRA) is a systematic process of examining how engineered systems work to ensure safety. With the growth of the size of dynamic systems and the complexity of the interactions between hardware, software, and humans, it is extremely difficult to enumerate risky scenarios by the traditional PRA methods. In this study, a new dynamic probabilistic risk assessment methodology is proposed that employs a new exploration strategy to generate risky scenarios. The proposed methodology consists of three main modules, including simulation, planner, and scheduler. In this methodology, the engineering knowledge of the system is explicitly used to guide the simulation module to achieve higher efficiency and accuracy. The engineering knowledge is reflected in the planner module which is responsible for generating plans as a high-level map to guide the simulation. The scheduler module is responsible for guiding the simulation by controlling the timing and occurrence of the random events. In this paper, modules of the proposed methodology, and their interactions are explained in detail. The developed methodology is used to perform risk assessment of a Space Shuttle ascent phase, and results show the effectiveness of the proposed platform.
+DA  - 2021/09/15/
+PY  - 2021
+DO  - 10.1016/j.ress.2021.108047
+DP  - ScienceDirect
+SP  - 108047
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 0951-8320
+ST  - Guided Simulation for Dynamic Probabilistic Risk Assessment of Complex Systems
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832021005512
+Y2  - 2021/09/21/13:34:36
+L2  - https://www.sciencedirect.com/science/article/pii/S0951832021005512?dgcid=raven_sd_aip_email
+KW  - Space Shuttle
+KW  - Complex system
+KW  - Dynamic probabilistic risk assessment
+KW  - Guided simulation
+KW  - Hardware, software, and humans’ interactions
+ER  - 
+
+TY  - CHAP
+TI  - Dynamic Reliability Analysis for Automotive Applications
+AU  - Woltereck, Martin
+AU  - Hauschild, Jan
+AU  - Meyna, Arno
+T2  - Probabilistic Safety Assessment and Management
+A2  - Spitzer, Cornelia
+A2  - Schmocker, Ulrich
+A2  - Dang, Vinh N.
+AB  - Reliability and safety analysis becomes increasingly important in the development of automotive systems. Additionally to problems that can be treated with classical methods like FMEA or FTA there are applications where it seems to be useful to apply methods of Dynamic Reliability Analysis. An example of a state transition diagram is given that is analysed with Monte Carlo simulation under use of different biasing techniques.
+CY  - London
+DA  - 2004///
+PY  - 2004
+DP  - DOI.org (Crossref)
+SP  - 178
+EP  - 185
+LA  - en
+PB  - Springer London
+SN  - 978-1-4471-1057-6 978-0-85729-410-4
+UR  - http://link.springer.com/10.1007/978-0-85729-410-4_29
+Y2  - 2021/09/21/14:47:57
+L1  - https://link-springer-com.proxy.lib.umich.edu/content/pdf/10.1007%2F978-0-85729-410-4_29.pdf
+ER  - 
+
+TY  - CONF
+TI  - Launch Vehicle Development Risk Projection Methodology
+AU  - Guarro, Sergio
+AU  - Tomei, Edmardo
+A2  - Spitzer, Cornelia
+A2  - Schmocker, Ulrich
+A2  - Dang, Vinh N.
+AB  - A launch vehicle risk projection analysis is discussed, which produces an estimation of reliability and failure risk for future launch vehicle designs. The estimation is based on what is known at a given time about the vehicle configurations, their launch manifest, and the heritage of the major components that make up each configuration, including the actual flight record of such components in earlier launch vehicle families. The approach produces an initial risk projection for a new launch vehicle family and its subsequent evolution in time. The latter can be based on the “mix” of vehicle configurations that appear in a vehicle family launch manifest and the record of launches of each configuration, as they occur in time.
+C1  - London
+C3  - Probabilistic Safety Assessment and Management
+DA  - 2004///
+PY  - 2004
+DO  - 10.1007/978-0-85729-410-4_352
+DP  - Springer Link
+SP  - 2187
+EP  - 2192
+LA  - en
+PB  - Springer
+SN  - 978-0-85729-410-4
+L1  - http://link.springer.com/content/pdf/10.1007%2F978-0-85729-410-4_352.pdf
+ER  - 
+
+TY  - CONF
+TI  - Application of Probabilistic Risk Assessment (PRA) During Conceptual Design for the NASA Orbital Space Plane (OSP)
+AU  - Rogers, James H.
+AU  - Safie, Fayssal M.
+AU  - Stott, James E.
+AU  - Lo, Yunnhon
+A2  - Spitzer, Cornelia
+A2  - Schmocker, Ulrich
+A2  - Dang, Vinh N.
+AB  - In order to meet the space transportation needs for a new century, America’s National Aeronautics and Space Administration (NASA) has implemented an Integrated Space Transportation Plan to produce safe, economical, and reliable access to space. One near term objective of this initiative is the design and development of a next-generation vehicle and launch system that will transport crew and cargo to and from the International Space Station (ISS), the Orbital Space Plane (OSP). The OSP system is composed of a manned launch vehicle by an existing Evolved Expendable Launch Vehicle (EELV). The OSP will provide emergency crew rescue from the ISS by 2008, and provide crew and limited cargo transfer to and from the ISS by 2012. A key requirement is for the OSP to be safer and more reliable than the Soyuz and Space Shuttle, which currently provide these capabilities.NASA has taken an integrated systems approach in designing the OSP launch system and related ground operations and launch support services. This “System-Centric” approach, as opposed to a “Vehicle-Centric” approach, presents unique challenges in terms of meeting the desired safety and reliability requirements As a result, NASA is utilizing PRA, a methodology for quantitative risk assessment, on the entire system during the design process and throughout the life of the system. When PRA is performed early in the design and development cycle with full engineering design and operations involvement, the PRA based integrated system model will provide a means for methodical and objective optimisation of the conceptual design.This paper discusses the development and implementation of PRA in the OSP Program. The OSP Program is the first major NASA program to perform and use PRA during the concept formulation phase of the program and is expected to produce the paradigm by which future space launch systems can be designed to meet successively higher safety and reliability demands [1].
+C1  - London
+C3  - Probabilistic Safety Assessment and Management
+DA  - 2004///
+PY  - 2004
+DO  - 10.1007/978-0-85729-410-4_313
+DP  - Springer Link
+SP  - 1950
+EP  - 1955
+LA  - en
+PB  - Springer
+SN  - 978-0-85729-410-4
+L1  - http://link.springer.com/content/pdf/10.1007%2F978-0-85729-410-4_313.pdf
+KW  - Space Shuttle
+KW  - Integrate System Model
+KW  - International Space Station
+KW  - Probabilistic Risk Assessment
+KW  - Quantitative Risk Assessment
+ER  - 
+
+TY  - CONF
+TI  - September 11, Columbia, Davis-Besse, and PRA: Business as Usual?
+AU  - Siu, Nathan
+AU  - Mosleh, Ali
+AU  - Meacham, Brian
+A2  - Spitzer, Cornelia
+A2  - Schmocker, Ulrich
+A2  - Dang, Vinh N.
+AB  - Whenever an event with potentially or actually catastrophic consequences occurs, it is common practice to review these events to identify important, systemic lessons for the affected industries. However, despite recent pushes to make increasing use of risk information in decision making, the scope of these reviews does not always address one important part of the system, the probabilistic risk assessment (PRA) technology supporting the risk assessment models used to develop this information. This paper looks at a set of noteworthy events with this topic in mind.
+C1  - London
+C3  - Probabilistic Safety Assessment and Management
+DA  - 2004///
+PY  - 2004
+DO  - 10.1007/978-0-85729-410-4_166
+DP  - Springer Link
+SP  - 1026
+EP  - 1031
+LA  - en
+PB  - Springer
+SN  - 978-0-85729-410-4
+ST  - September 11, Columbia, Davis-Besse, and PRA
+L1  - http://link.springer.com/content/pdf/10.1007%2F978-0-85729-410-4_166.pdf
+KW  - Space Shuttle
+KW  - Nuclear Regulatory Commission
+KW  - Reactor Pressure Vessel
+KW  - Thermal Protection System
+KW  - World Trade Center
+ER  - 
+
+TY  - CONF
+TI  - Conditional Risk Model Concept for Critical Space Systems Software
+AU  - Guarro, Sergio
+AU  - Yau, Michael
+AU  - Oliva, Sergio
+A2  - Spitzer, Cornelia
+A2  - Schmocker, Ulrich
+A2  - Dang, Vinh N.
+AB  - A software risk assessment approach described, based on the concept of software conditional risk and the ability to define analytically aided, risk-based software test strategies that seek to optimise test coverage. The functional-input space of the software is subdivided into a set of“condition contexts,” corresponding to operating environments and functional conditions for the space system controlled by the software. The formulation of a“conditional risk index,” based on a probabilistic formulation that expresses critical software risk in terms of“condition coverage,” is then enabled with the aid of a combination of logic modelling, automated test vector generation and software defect rate estimation techniques.
+C1  - London
+C3  - Probabilistic Safety Assessment and Management
+DA  - 2004///
+PY  - 2004
+DO  - 10.1007/978-0-85729-410-4_26
+DP  - Springer Link
+SP  - 158
+EP  - 163
+LA  - en
+PB  - Springer
+SN  - 978-0-85729-410-4
+L1  - http://link.springer.com/content/pdf/10.1007%2F978-0-85729-410-4_26.pdf
+KW  - Attitude Control System
+KW  - Condition Context
+KW  - Contingency Mode
+KW  - Failure Probability
+KW  - Risk Index
+ER  - 
+
+TY  - JOUR
+TI  - Testing a Point Null Hypothesis: The Irreconcilability of P Values and Evidence
+AU  - Berger, James O.
+AU  - Sellke, Thomas
+T2  - Journal of the American Statistical Association
+AB  - The problem of testing a point null hypothesis (or a "small interval" null hypothesis) is considered. Of interest is the relationship between the P value (or observed significance level) and conditional and Bayesian measures of evidence against the null hypothesis. Although one might presume that a small P value indicates the presence of strong evidence against the null, such is not necessarily the case. Expanding on earlier work [especially Edwards, Lindman, and Savage (1963) and Dickey (1977)], it is shown that actual evidence against a null (as measured, say, by posterior probability or comparative likelihood) can differ by an order of magnitude from the P value. For instance, data that yield a P value of .05, when testing a normal mean, result in a posterior probability of the null of at least .30 for any objective prior distribution. ("Objective" here means that equal prior weight is given the two hypotheses and that the prior is symmetric and nonincreasing away from the null; other definitions of "objective" will be seen to yield qualitatively similar results.) The overall conclusion is that P values can be highly misleading measures of the evidence provided by the data against the null hypothesis.
+DA  - 1987///
+PY  - 1987
+DO  - 10.2307/2289131
+DP  - JSTOR
+VL  - 82
+IS  - 397
+SP  - 112
+EP  - 122
+SN  - 0162-1459
+ST  - Testing a Point Null Hypothesis
+UR  - http://www.jstor.org/stable/2289131
+Y2  - 2021/09/21/14:58:46
+ER  - 
+
+TY  - JOUR
+TI  - The Concept of Probability in Safety Assessments of Technological Systems
+AU  - Apostolakis, George
+T2  - Science
+AB  - Safety assessments of technological systems, such as nuclear power plants, chemical process facilities, and hazardous waste repositories, require the investigation of the occurrence and consequences of rare events. The subjectivistic (Bayesian) theory of probability is the appropriate framework within which expert opinions, which are essential to the quantification process, can be combined with experimental results and statistical observations to produce quantitative measures of the risks from these systems. A distinction is made between uncertainties in physical models and state-of-knowledge uncertainties about the parameters and assumptions of these models. The proper role of past and future relative frequencies and several issues associated with the elicitation and use of expert opinions are discussed.
+DA  - 1990///
+PY  - 1990
+DP  - JSTOR
+VL  - 250
+IS  - 4986
+SP  - 1359
+EP  - 1364
+SN  - 0036-8075
+UR  - http://www.jstor.org/stable/2878382
+Y2  - 2021/09/21/15:02:51
+L1  - http://www.jstor.org/stable/pdfplus/10.2307/2878382.pdf?acceptTC=true
+ER  - 
+
+TY  - JOUR
+TI  - A probabilistic estimation approach for the failure forecast method using Bayesian inference
+AU  - O’Dowd, Niall M.
+AU  - Madarshahian, Ramin
+AU  - Leung, Michael Siu Hey
+AU  - Corcoran, Joseph
+AU  - Todd, Michael D.
+T2  - International Journal of Fatigue
+AB  - Positive-feedback mechanisms such as fatigue induce a self-accelerating behavior, captured by models displaying infinite limit-state asymptotics, collectively known as the failure forecast method (FFM). This paper presents a Bayesian model parameter estimation approach to the fully nonlinear FFM implementation and compares the results to the classic linear regression formulation, including a regression uncertainty model. This process is demonstrated in a cyclic loading fatigue crack propagation application, both on a synthetic data set and on a full fatigue experiment. A novel ”switch point” parameter is included in the Bayesian formulation to account for nonstationary changes in the growth parameter.
+DA  - 2021/01/01/
+PY  - 2021
+DO  - 10.1016/j.ijfatigue.2020.105943
+DP  - ScienceDirect
+VL  - 142
+SP  - 105943
+J2  - International Journal of Fatigue
+LA  - en
+SN  - 0142-1123
+UR  - https://www.sciencedirect.com/science/article/pii/S0142112320304746
+Y2  - 2021/09/21/15:11:38
+L1  - https://escholarship.org/content/qt38m9j5v4/qt38m9j5v4.pdf?t=qpe3a7
+L2  - http://www.sciencedirect.com/science/article/pii/S0142112320304746
+KW  - Bayesian inference
+KW  - Failure forecast method
+KW  - Fatigue life
+KW  - Remaining life estimation
+KW  - Structural health monitoring
+ER  - 
+
+TY  - THES
+TI  - On Bayesian system reliability analysis
+AU  - Ringi, Mikael Sörensen
+AB  - Increasing complexity of systems calls for new, more accurate system reliability models. The view taken in this thesis is that reliability, the probability that a system will perform a required function for a stated period of time, depends on a person's state of knowledge. Reliability changes as this state of knowledge changes, i.e. when new relevant
+information becomes available. Most existing models for system reliability prediction are developed in a classical
+framework of probability theory and they overlook some information that is always present. Probability is just an
+analytical tool to handle uncertainty, based on judgement and subjective opinions. It is argued that the Bayesian
+approach gives a much more comprehensive understanding
+of the foundations of probability than the so-called frequentistic school. A new model for system reliability prediction is given in two included papers. The model encloses the fact that component failures are dependent because of a shared operational environment. The suggested model also naturally permits learning from failure data of similar components in  non-identical environments.
+CY  - Linköping
+DA  - 1995///
+PY  - 1995
+DP  - Open WorldCat
+SP  - 93
+LA  - en
+PB  - Department of Mechanical Engineering, Linköping University
+L1  - https://www.osti.gov/etdeweb/servlets/purl/158000
+ER  - 
+
+TY  - JOUR
+TI  - Bayesian Modeling, Inference and Prediction
+AU  - Draper, David
+DP  - Zotero
+SP  - 305
+LA  - en
+L1  - https://users.soe.ucsc.edu/~draper/draper-BMIP-dec2005.pdf
+ER  - 
+
+TY  - JOUR
+TI  - A Bayesian Network Approach to Early Reliability Assessment of Complex Systems
+AU  - Yontay, Petek
+AB  - Bayesian networks are powerful tools in system reliability assessment due to their flexibility in modeling the reliability structure of complex systems. This dissertation develops Bayesian network models for system reliability analysis through the use of Bayesian inference techniques.
+Bayesian networks generalize fault trees by allowing components and subsystems to be related by conditional probabilities instead of deterministic relationships; thus, they provide analytical advantages to the situation when the failure structure is not well understood, especially during the product design stage. In order to tackle this problem, one needs to utilize auxiliary information such as the reliability information from similar products and domain expertise. For this purpose, a Bayesian network approach is proposed to incorporate data from functional analysis and parent prod- ucts. The functions with low reliability and their impact on other functions in the network are identified, so that design changes can be suggested for system reliability improvement.
+A complex system does not necessarily have all components being monitored at the same time, causing another challenge in the reliability assessment problem. Some- times there are a limited number of sensors deployed in the system to monitor the states of some components or subsystems, but not all of them. Data simultaneously collected from multiple sensors on the same system are analyzed using a Bayesian network approach, and the conditional probabilities of the network are estimated by combining failure information and expert opinions at both system and compo- nent levels. Several data scenarios with discrete, continuous and hybrid data (both discrete and continuous data) are analyzed. Posterior distributions of the reliability parameters of the system and components are assessed using simultaneous data.
+Finally, a Bayesian framework is proposed to incorporate different sources of prior information and reconcile these different sources, including expert opinions and component information, in order to form a prior distribution for the system. Incorporating expert opinion in the form of pseudo-observations substantially sim- plifies statistical modeling, as opposed to the pooling techniques and supra Bayesian methods used for combining prior distributions in the literature. The methods pro- posed are demonstrated with several case studies.
+DP  - Zotero
+SP  - 157
+LA  - en
+L1  - https://repository.asu.edu/attachments/170614/content/Yontay_asu_0010E_15921.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Bayesian belief networks to predict the reliabi1ity of mi1itary vehicles
+AU  - Neil, Martin
+AU  - Fenton, Norman
+AU  - Forey, Simon
+AU  - Harris, Roger
+DA  - 2001///
+PY  - 2001
+DP  - Zotero
+SP  - 10
+LA  - en
+L1  - https://www.eecs.qmul.ac.uk/~norman/papers/TRACS.pdf
+ER  - 
+
+TY  - COMP
+TI  - Bayesian Methods for Hackers
+AU  - Davidson-Pilon, Cameron
+AB  - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
+DA  - 2021/09/21/T15:26:15Z
+PY  - 2021
+DP  - GitHub
+LA  - Jupyter Notebook
+UR  - https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
+Y2  - 2021/09/21/15:34:18
+KW  - bayesian-methods
+KW  - data-science
+KW  - jupyter-notebook
+KW  - mathematical-analysis
+KW  - pymc
+KW  - statistics
+ER  - 
+
+TY  - JOUR
+TI  - The Counter-intuitive Non-informative Prior for the Bernoulli Family
+AU  - Zhu, Mu
+AU  - Lu, Arthur Y.
+T2  - Journal of Statistics Education
+AB  - In Bayesian statistics, the choice of the prior distribution is often controversial. Diﬀerent rules for selecting priors have been suggested in the literature, which, sometimes, produce priors that are diﬃcult for the students to understand intuitively. In this article, we use a simple heuristic to illustrate to the students the rather counter-intuitive fact that ﬂat priors are not necessarily non-informative; and non-informative priors are not necessarily ﬂat.
+DA  - 2004/01//
+PY  - 2004
+DO  - 10.1080/10691898.2004.11910734
+DP  - DOI.org (Crossref)
+VL  - 12
+IS  - 2
+SP  - 3
+J2  - Journal of Statistics Education
+LA  - en
+SN  - 1069-1898
+UR  - https://www.tandfonline.com/doi/full/10.1080/10691898.2004.11910734
+Y2  - 2021/09/21/18:04:25
+L1  - http://jse.amstat.org/v12n2/zhu.pdf
+KW  - Beta Distribution
+KW  - Conjugate Priors
+KW  - Maximum Likelihood Estimation
+KW  - Posterior mean
+ER  - 
+
+TY  - JOUR
+TI  - Developing a Bayesian belief network model for prediction of R&D project success
+AU  - Sharma, Satyendra Kumar
+AU  - Chanda, Udayan
+T2  - Journal of Management Analytics
+AB  - The project success is critical to the business performance in the era of fierce competition and globalization. The basis for project success lies in the capabilities of managing risks effectively. Innovation has always been considerably risky; however, managing Research and Development (R&D) project risks has become even more important given today’s tight schedules and limited resources. Risk management has to be an integral part of the development process. The purpose of this research is to develop a model to assess and estimate the risk exposure of an R&D project. A risk quantification model based on the Bayesian belief network is proposed, which is effective in capturing the interaction between various risk factors. The aim of this model is to empower the project managers to predict the failure risk probability of R&D projects.
+DA  - 2017/07/03/
+PY  - 2017
+DO  - 10.1080/23270012.2017.1304291
+DP  - Taylor and Francis+NEJM
+VL  - 4
+IS  - 3
+SP  - 321
+EP  - 344
+SN  - 2327-0012
+UR  - https://doi.org/10.1080/23270012.2017.1304291
+Y2  - 2021/09/21/17:17:42
+L2  - https://www.tandfonline.com/doi/abs/10.1080/23270012.2017.1304291?needAccess=true&journalCode=tjma20
+KW  - Bayesian belief networks
+KW  - R&D projects
+KW  - risk assessment
+KW  - risk identification
+ER  - 
+
+TY  - JOUR
+TI  - Using Bayesian Belief Network (BBN) Modelling for Rapid Source Term Prediction – RASTEP Phase
+AU  - Knochenhauer, Michael
+AU  - Swaling, Vidar Hedtjärn
+AU  - Alfheim, Per
+AB  - The project presented in this report is connected to the development of RASTEP, a computerized source term prediction tool aimed at providing a basis for improving off-site emergency management.
+DP  - Zotero
+SP  - 63
+LA  - en
+L1  - https://www.osti.gov/etdeweb/servlets/purl/22000623
+ER  - 
+
+TY  - JOUR
+TI  - Using Bayesian belief networks for reliability management:construction and evaluation: a step by step approach
+AU  - MJHA (Maurits), Houben
+DA  - 2010///
+PY  - 2010
+DO  - 10.6100/IR675503
+DP  - DOI.org (Datacite)
+LA  - en
+ST  - Using Bayesian belief networks for reliability management
+UR  - https://research.tue.nl/en/publications/using-bayesian-belief-networks-for-reliability-management--construction-and-evaluation-a-step-by-step-approach(1f701a67-ff9f-49ee-8856-b9153fdc12e4).html
+Y2  - 2021/09/21/17:14:01
+L1  - https://pure.tue.nl/ws/files/2841749/675503.pdf
+KW  - cost-benefit analysis
+KW  - dissertations the and tu/e
+KW  - financial management. accountancy
+KW  - management science: dissertations
+ER  - 
+
+TY  - RPRT
+TI  - Hazard Analysis of Commercial Space Transportation
+AB  - This report, entitled "Hazard Analysis of Commercial Space Transportation," is devoted to the review and discussion of generic hazards associated with the ground, launch, orbital and re-entry phases of space operations. Since the DOT Office of Commercial Space Transportation (OCST) has been charged with protecting the public health and safety by the Commercial Space Act of 1984 (P.L. 98-575), it must promulgate and enforce appropriate safety criteria and regulatory requirements for licensing the emerging commercial space launch industry. This report was sponsored by OCST to identify and assess prospective safety hazards associated with commercial launch activities, the involved equipment, facilities, personnel, public property, people and environment. The report presents, organizes and evaluates the technical information available in the public domain, pertaining to the nature, severity and control of prospective hazards and public risk exposure levels arising from commercial space launch activities. The US Government space- operational experience and risk control practices established at its National Ranges serve as the basis for this review and analysis.
+The report consists of three self-contained, but complementary, volumes focusing on Space Transportation: I. Operations; II. Hazards; and III. Risk Analysis. This Executive Summary is attached to all 3 volumes, with the text describing that volume highlighted.
+DA  - 1995/10/02/
+PY  - 1995
+SP  - 274
+LA  - en
+UR  - https://www.faa.gov/about/office_org/headquarters_offices/ast/licenses_permits/media/hazard.pdf
+Y2  - 2021/10/03/14:39:45
+L1  - https://www.faa.gov/about/office_org/headquarters_offices/ast/licenses_permits/media/hazard.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Guidelines for developing and updating Bayesian belief networks applied to ecological modeling and conservation
+L4  - https://www.fs.fed.us/pnw/pubs/journals/pnw_2006_marcot001.pdf
+ER  - 
+
+TY  - CHAP
+TI  - NASA Historical Data Book: NASA launch systems, space transportation, human spaceflight, and space science, 1989-1998
+AU  - Rumerman, Judy
+T2  - NASA Historical Data Book
+T3  - The NASA History Series
+VL  - 7
+LA  - en
+SN  - 978-0-16-080501-1
+UR  - https://history.nasa.gov/SP-4012v7ch2.pdf
+Y2  - 2021/09/21/14:46:29
+L1  - https://history.nasa.gov/SP-4012v7ch2.pdf
+ER  - 
+
+TY  - GEN
+TI  - Guide to Reusable Launch and Reentry Vehicle Reliability Analysis
+DA  - 2005/04/01/
+PY  - 2005
+LA  - en
+PB  - Federal Aviation Administration (FAA)
+UR  - https://webarchive.loc.gov/all/20090326043028/http://www.faa.gov/about/office_org/headquarters_offices/ast/media/FAA_AST_Guide_to_Reliability_Analysis_v1.pdf
+Y2  - 2021/09/08/02:39:52
+L1  - https://webarchive.loc.gov/all/20090326043028/http://www.faa.gov/about/office_org/headquarters_offices/ast/media/FAA_AST_Guide_to_Reliability_Analysis_v1.pdf
+ER  - 
+
+TY  - BOOK
+TI  - Bayesian Data Analysis
+AU  - Gelman, Andrew
+AU  - Carlin, John B
+AU  - Stern, Hal S
+AU  - Dunson, David B
+AU  - Vehtari, Aki
+AU  - Rubin, Donald B
+T2  - Chapman & Hall/CRC texts in statistical science
+AB  - "Preface This book is intended to have three roles and to serve three associated audiences: an introductory text on Bayesian inference starting from first principles, a graduate text on effective current approaches to Bayesian modeling and computation in statistics and related fields, and a handbook of Bayesian methods in applied statistics for general users of and researchers in applied statistics. Although introductory in its early sections, the book is definitely not elementary in the sense of a first text in statistics. The mathematics used in our book is basic probability and statistics, elementary calculus, and linear algebra. A review of probability notation is given in Chapter 1 along with a more detailed list of topics assumed to have been studied. The practical orientation of the book means that the reader's previous experience in probability, statistics, and linear algebra should ideally have included strong computational components. To write an introductory text alone would leave many readers with only a taste of the conceptual elements but no guidance for venturing into genuine practical applications, beyond those where Bayesian methods agree essentially with standard non-Bayesian analyses. On the other hand, we feel it would be a mistake to present the advanced methods without first introducing the basic concepts from our data-analytic perspective. Furthermore, due to the nature of applied statistics, a text on current Bayesian methodology would be incomplete without a variety of worked examples drawn from real applications. To avoid cluttering the main narrative, there are bibliographic notes at the end of each chapter and references at the end of the book"--
+CN  - QA279.5 .G45 2014
+CY  - Boca Raton
+DA  - 2014///
+PY  - 2014
+DP  - Library of Congress ISBN
+ET  - Third edition
+SP  - 661
+PB  - CRC Press
+SN  - 978-1-4398-4095-5
+KW  - Bayesian statistical decision theory
+KW  - MATHEMATICS / Probability & Statistics / General
+ER  - 
+
+TY  - BOOK
+TI  - Probability Theory: The Logic of Science
+AU  - Jaynes, E. T
+AU  - Bretthorst, G. Larry
+AB  - A comprehensive introduction to the role of probability theory in general scientific endeavour. This book provides an original interpretation of probability theory, showing the subject to be an extension of logic, and presenting new results and applications. Ideal for scientists working in any area involving inference from incomplete information.
+CY  - Cambridge, UK; New York, NY
+DA  - 2003///
+PY  - 2003
+DP  - Open WorldCat
+LA  - English
+PB  - Cambridge University Press
+SN  - 978-0-511-06589-7 978-0-521-59271-0 978-0-511-06802-7 978-0-511-79042-3 978-1-139-63632-2 978-1-280-41722-1
+ST  - Probability theory
+UR  - https://doi.org/10.1017/CBO9780511790423
+Y2  - 2021/10/03/15:47:12
+ER  - 
+
+TY  - BOOK
+TI  - Bayesian Reliability
+T2  - Springer Series in Statistics
+A3  - Hamada, Michael S
+A3  - Wilson, Alyson G
+A3  - Reese, C. Shane
+A3  - Martz, Harry F
+CN  - QA279.5 .B3889 2008
+CY  - New York, NY
+DA  - 2008///
+PY  - 2008
+DP  - Library of Congress ISBN
+SP  - 436
+LA  - English
+PB  - Springer
+SN  - 978-0-387-77948-5
+KW  - Bayesian statistical decision theory
+KW  - Reliability (Engineering)
+KW  - Statistical methods
+ER  - 
+
+TY  - BOOK
+TI  - Probability with Applications in Engineering, Science, and Technology
+AU  - Carlton, Matthew A.
+AU  - Devore, Jay L.
+T2  - Springer Texts in Statistics
+CY  - Cham
+DA  - 2017///
+PY  - 2017
+DP  - DOI.org (Crossref)
+LA  - en
+PB  - Springer International Publishing
+SN  - 978-3-319-52400-9 978-3-319-52401-6
+UR  - http://link.springer.com/10.1007/978-3-319-52401-6
+Y2  - 2021/10/03/16:05:58
+ER  - 
+
+TY  - BOOK
+TI  - Introduction to computation and programming using Python: with application to understanding data
+AU  - Guttag, John
+CN  - QA76.73.P98 G88 2016
+CY  - Cambridge, Massachusetts
+DA  - 2016///
+PY  - 2016
+DP  - Library of Congress ISBN
+ET  - Second edition
+SP  - 447
+PB  - The MIT Press
+SN  - 978-0-262-52962-4
+ST  - Introduction to computation and programming using Python
+KW  - Computer programming
+KW  - Python (Computer program language)
+KW  - Textbooks
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2020 Launch Stats
+AU  - Kyle, Ed
+DA  - 2020/12/31/
+PY  - 2020
+UR  - https://www.spacelaunchreport.com/log2020.html
+Y2  - 2021/10/03/16:08:51
+L2  - https://www.spacelaunchreport.com/log2020.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2019 Launch Stats
+AU  - Kyle, Ed
+UR  - https://www.spacelaunchreport.com/log2019.html
+Y2  - 2021/10/03/16:09:02
+L2  - https://www.spacelaunchreport.com/log2019.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2018 Launch Stats
+AU  - Kyle, Ed
+UR  - https://www.spacelaunchreport.com/log2018.html
+Y2  - 2021/10/03/16:09:06
+L2  - https://www.spacelaunchreport.com/log2018.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2017 Launch Stats
+AU  - Kyle, ed
+UR  - https://www.spacelaunchreport.com/log2017.html
+Y2  - 2021/10/03/16:09:09
+L2  - https://www.spacelaunchreport.com/log2017.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2016 Launch Stats
+AU  - Kyle, Ed
+DA  - 2016/12/31/
+PY  - 2016
+UR  - https://www.spacelaunchreport.com/log2016.html
+Y2  - 2021/10/03/16:10:03
+L2  - https://www.spacelaunchreport.com/log2016.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2015 Launch Stats
+AU  - Kyle, Ed
+DA  - 2015/12/31/
+PY  - 2015
+UR  - https://www.spacelaunchreport.com/log2015.html
+Y2  - 2021/10/03/16:10:11
+L2  - https://www.spacelaunchreport.com/log2015.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2014 Launch Stats
+AU  - Kyle, Ed
+DA  - 2014/12/31/
+PY  - 2014
+UR  - https://www.spacelaunchreport.com/log2014.html
+Y2  - 2021/10/03/16:10:18
+L2  - https://www.spacelaunchreport.com/log2014.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2013 Launch Stats
+AU  - Kyle, Ed
+DA  - 2013/12/31/
+PY  - 2013
+UR  - https://www.spacelaunchreport.com/log2013.html
+Y2  - 2021/10/03/16:10:27
+L2  - https://www.spacelaunchreport.com/log2013.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2012 Launch Stats
+AU  - Kyle, Ed
+DA  - 2012/12/31/
+PY  - 2012
+UR  - https://www.spacelaunchreport.com/log2012.html
+Y2  - 2021/10/03/16:10:36
+L2  - https://www.spacelaunchreport.com/log2012.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2011 Launch Stats
+AU  - Kyle, Ed
+DA  - 2011/12/31/
+PY  - 2011
+UR  - https://www.spacelaunchreport.com/log2011.html
+Y2  - 2021/10/03/16:10:44
+L2  - https://www.spacelaunchreport.com/log2011.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2009 Launch Stats
+AU  - Kyle, Ed
+DA  - 2009/12/31/
+PY  - 2009
+UR  - https://www.spacelaunchreport.com/log2009.html
+Y2  - 2021/10/03/16:10:59
+L2  - https://www.spacelaunchreport.com/log2009.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2010 Launch Stats
+AU  - Kyle, Ed
+DA  - 2010/12/31/
+PY  - 2010
+UR  - https://www.spacelaunchreport.com/log2010.html
+Y2  - 2021/10/03/16:11:06
+L2  - https://www.spacelaunchreport.com/log2010.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2008 Launch Stats
+AU  - Kyle, Ed
+DA  - 2008/12/31/
+PY  - 2008
+UR  - https://www.spacelaunchreport.com/log2008.html
+Y2  - 2021/10/03/16:11:14
+L2  - https://www.spacelaunchreport.com/log2008.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2007 Launch Stats
+AU  - Kyle, Ed
+DA  - 2007/12/31/
+PY  - 2007
+UR  - https://www.spacelaunchreport.com/log2007.html
+Y2  - 2021/10/03/16:11:22
+L2  - https://www.spacelaunchreport.com/log2007.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2006 Launch Stats
+AU  - Kyle, Ed
+DA  - 2006/12/31/
+PY  - 2006
+UR  - https://www.spacelaunchreport.com/log2006.html
+Y2  - 2021/10/03/16:11:33
+L2  - https://www.spacelaunchreport.com/log2006.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2005 Launch Stats
+AU  - Kyle, Ed
+DA  - 2005/12/31/
+PY  - 2005
+UR  - https://www.spacelaunchreport.com/log2005.html
+Y2  - 2021/10/03/16:11:42
+L2  - https://www.spacelaunchreport.com/log2005.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2004 Launch Stats
+AU  - Kyle, Ed
+DA  - 2004/12/31/
+PY  - 2004
+UR  - https://www.spacelaunchreport.com/log2004.html
+Y2  - 2021/10/03/16:11:50
+L2  - https://www.spacelaunchreport.com/log2004.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2003 Launch Stats
+AU  - Kyle, Ed
+DA  - 2003/12/31/
+PY  - 2003
+UR  - https://www.spacelaunchreport.com/log2003.html
+Y2  - 2021/10/03/16:11:58
+L2  - https://www.spacelaunchreport.com/log2003.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2002 Launch Stats
+AU  - Kyle, Ed
+DA  - 2002/12/31/
+PY  - 2002
+UR  - https://www.spacelaunchreport.com/log2002.html
+Y2  - 2021/10/03/16:12:05
+L2  - https://www.spacelaunchreport.com/log2002.html
+ER  - 
+
+TY  - ELEC
+TI  - 2000 World Space Launch Log
+AU  - Kyle, Ed
+DA  - 2000/12/31/
+PY  - 2000
+UR  - https://www.spacelaunchreport.com/log2000.html
+Y2  - 2021/10/03/16:12:26
+L2  - https://www.spacelaunchreport.com/log2000.html
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Report 2001 Launch Stats
+AU  - Kyle, Ed
+DA  - 2001/12/31/
+PY  - 2001
+UR  - https://www.spacelaunchreport.com/log2001.html
+Y2  - 2021/10/03/16:12:54
+L2  - https://www.spacelaunchreport.com/log2001.html
+ER  - 
+
+TY  - ELEC
+TI  - Full Master Orbital List
+AU  - McDowell, Jonathan C
+T2  - JSR Launch Logs
+UR  - https://planet4589.org/space/log/launchlog.txt
+Y2  - 2021/10/03/16:21:11
+L2  - https://planet4589.org/space/log/launchlog.txt
+ER  - 
+
+TY  - GEN
+TI  - NASA Major Launch Record
+PB  - NASA
+UR  - https://history.nasa.gov/pocketstats/sect%20B/MLR.pdf
+N1  - <p>Covers NASA launches from 1958-1996</p>
+ER  - 
+
+TY  - ELEC
+TI  - sp4012v3
+UR  - https://history.nasa.gov/SP-4012/vol3/sp4012v3.htm
+Y2  - 2021/10/03/16:27:30
+L2  - https://history.nasa.gov/SP-4012/vol3/sp4012v3.htm
+ER  - 
+
+TY  - ELEC
+TI  - sp4012v4
+UR  - https://history.nasa.gov/SP-4012/vol4/sp4012v4.htm
+Y2  - 2021/10/03/16:27:40
+L2  - https://history.nasa.gov/SP-4012/vol4/sp4012v4.htm
+ER  - 
+
+TY  - ELEC
+TI  - NASA Historical Data Books
+UR  - https://history.nasa.gov/SP-4012/vol5/cover5.html
+Y2  - 2021/10/03/16:27:48
+L2  - https://history.nasa.gov/SP-4012/vol5/cover5.html
+L2  - https://history.nasa.gov/SP-4012/vol6/cover6.html
+ER  - 
+
+TY  - JOUR
+TI  - NASA HISTORICAL DATA BOOK, 1958-1968
+AU  - Nimmen, Jane Van
+DP  - Zotero
+SP  - 532
+LA  - en
+ER  - 
+
+TY  - RPRT
+TI  - Bayesian Networks
+AU  - Horny, Michael
+AB  - A Bayesian network is a representation of a joint probability distribution of a set of
+random variables with a possible mutual causal relationship. The network consists of nodes representing the random variables, edges between pairs of nodes representing the causal relationship of these nodes, and a conditional probability distribution in each of the nodes. The main objective of the method is to model the posterior conditional probability distribution of outcome (often causal) variable(s) after observing new evidence. Bayesian networks may
+be constructed either manually with knowledge of the underlying domain, or automatically from a large dataset by appropriate software.
+DA  - 2014/04/18/
+PY  - 2014
+SP  - 17
+LA  - English
+M3  - Technical Report
+PB  - Boston University
+SN  - 5
+KW  - Bayesian Network
+KW  - Causality
+KW  - Complexity
+KW  - Directed Acyclic Graph
+KW  - Evidence
+KW  - Factor
+KW  - Graphical Model
+KW  - Node
+ER  - 
+
+TY  - BOOK
+TI  - System reliability theory: models, statistical methods, and applications
+AU  - Rausand, Marvin
+AU  - Høyland, Arnljot
+T2  - Wiley series in probability and statistics
+CN  - TA169 .H68 2004
+CY  - Hoboken, NJ
+DA  - 2004///
+PY  - 2004
+DP  - Library of Congress ISBN
+ET  - 2nd ed
+SP  - 636
+PB  - Wiley-Interscience
+SN  - 978-0-471-47133-2
+ST  - System reliability theory
+N1  - Høyland's name appears first on the earlier edition
+KW  - Reliability (Engineering)
+KW  - Statistical methods
+ER  - 
+
+TY  - RPRT
+TI  - Basics of Bayesian reliability estimation from attribute test data
+AU  - Martz, Jr, H F
+AU  - Waller, R A
+AB  - The basic notions of Bayesian reliability estimation from attribute lifetest data are presented in an introductory and expository manner. Both Bayesian point and interval estimates of the probability of surviving the lifetest, the reliability, are discussed. The necessary formulas are simply stated, and examples are given to illustrate their use. In particular, a binomial model in conjunction with a beta prior model is considered. Particular attention is given to the procedure for selecting an appropriate prior model in practice. Empirical Bayes point and interval estimates of reliability are discussed and examples are given. 7 figures, 2 tables (auth)
+DA  - 1975/10/01/
+PY  - 1975
+PB  - Los Alamos Scientific Lab., N.Mex. (USA)
+UR  - https://www.osti.gov/servlets/purl/7364917-VAOekS/
+Y2  - 2021/10/06/18:39:27
+L1  - https://www.osti.gov/servlets/purl/7364917-VAOekS/
+ER  - 
+
+TY  - BOOK
+TI  - International reference guide to space launch systems
+AU  - Isakowitz, Steven J.
+AU  - Hopkins, Joseph P.
+AU  - Hopkins, Joshua B.
+CN  - TL785.8.L3 I83 2004
+CY  - Reston, Va
+DA  - 2004///
+PY  - 2004
+DP  - Library of Congress ISBN
+ET  - 4th ed
+SP  - 596
+PB  - American Institute of Aeronautics and Astronautics
+SN  - 978-1-56347-591-7
+KW  - Encyclopedias
+KW  - Launch vehicles (Astronautics)
+KW  - Reusable space vehicles
+KW  - Space shuttles
+ER  - 
+
+TY  - JOUR
+TI  - Rare event simulation for dynamic fault trees
+AU  - Ruijters, Enno
+AU  - Reijsbergen, Daniël
+AU  - de Boer, Pieter-Tjerk
+AU  - Stoelinga, Mariëlle
+T2  - Reliability Engineering & System Safety
+AB  - Fault trees (FT) are a popular industrial method for reliability engineering, for which Monte Carlo simulation is an important technique to estimate common dependability metrics, such as the system reliability and availability. A severe drawback of Monte Carlo simulation is that the number of simulations required to obtain accurate estimations grows extremely large in the presence of rare events, i.e., events whose probability of occurrence is very low, which typically holds for failures in highly reliable systems. This paper presents a novel method for rare event simulation of dynamic fault trees with complex repairs that requires only a modest number of simulations, while retaining statistically justified confidence intervals. Our method exploits the importance sampling technique for rare event simulation, together with a compositional state space generation method for dynamic fault trees. We demonstrate our approach using three parameterized sets of case studies, showing that our method can handle fault trees that could not be evaluated with either existing analytical techniques using stochastic model checking, nor with standard simulation techniques.
+DA  - 2019/06/01/
+PY  - 2019
+DO  - 10.1016/j.ress.2019.02.004
+DP  - ScienceDirect
+VL  - 186
+SP  - 220
+EP  - 231
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 0951-8320
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832018305313
+Y2  - 2021/10/04/17:47:06
+L2  - http://www.sciencedirect.com/science/article/pii/S0951832018305313
+KW  - Dynamic fault trees
+KW  - Fault tree analysis
+KW  - Importance sampling
+KW  - Monte Carlo simulation
+KW  - Rare event simulation
+ER  - 
+
+TY  - BOOK
+TI  - Space Mission Analysis and Design
+T2  - Space technology library
+A3  - Wertz, James Richard
+A3  - Larson, Wiley J.
+CN  - TL790 .S73 1999
+CY  - El Segundo, Calif. : Dordrecht ; Boston
+DA  - 1999///
+PY  - 1999
+DP  - Library of Congress ISBN
+ET  - 3rd ed
+SP  - 969
+LA  - en
+PB  - Microcosm ; Kluwer
+SN  - 978-0-7923-5901-2 978-1-881883-10-4
+L1  - https://dta0yqvfnusiq.cloudfront.net/tsti/2015/06/SMAD_Fronts.pdf
+KW  - Design and construction
+KW  - Planning
+KW  - Space flight
+KW  - Space vehicles
+ER  - 
+
+TY  - RPRT
+TI  - Risk Analysis of the Space Shuttle: Pre-Challenger Bayeisan Prediction of Failure
+AU  - Kelly, Dana L.
+AU  - Smith, Curtis L.
+AB  - Dalal et al performed a statistical analysis of field and nozzle O-ring data collected prior to the ill-fated launch of the Challenger in January 1986. The purpose of their analysis was to show how statistical analysis could be used to provide information to decisionmakers prior to the launch, information that could have been expected to lead to a decision to abort the launch due to the low temperatures (~30o F.) present at the launch pad on the morning of the scheduled launch. Dalal et al. performed a frequentist analysis of the O-ring data, and found that a logistic regression model provided a relatively good fit to the past data. In the second portion of their paper, Dalal et al. propagated parameter uncertainties through the fitted logistic regression model in order to estimate the probability of shuttle failure due to O-ring failure at the estimated launch temperature of ~30o F. Because their analysis was frequentist in nature, probability distributions representing epistemic uncertainty in the input parameters were not available, and the authors had to resort to an approximate approach based on bootstrap confidence intervals. In this paper, we will re-evaluate the analyses of Dalal et al. from a Bayesian perspective. Markov chain Monte Carlo (MCMC) sampling will be used to sample from the joint posterior distribution of the model parameters, and to sample from the posterior predictive distributions at the estimated launch temperature, a temperature that had not been observed in prior launches of the space shuttle. Uncertainties, which are represented by probability distributions in the Bayesian approach, are propagated through the model to obtain a probability distribution for O-ring failure, and subsequently for shuttle failure as a result of O-ring failure. No approximations are required in the Bayesian approach and the resulting distributions can be input to a decision analysis to obtain expected utility for the decision to launch.
+DA  - 2008/02/01/
+PY  - 2008
+DP  - www.osti.gov
+LA  - English
+PB  - Idaho National Lab. (INL), Idaho Falls, ID (United States)
+SN  - INL/CON-07-13399
+ST  - Risk Analysis of the Space Shuttle
+UR  - https://www.osti.gov/biblio/926328/
+Y2  - 2021/10/04/01:31:55
+L1  - https://www.osti.gov/servlets/purl/926328
+L2  - https://www.osti.gov/biblio/926328/
+ER  - 
+
+TY  - BOOK
+TI  - NASA Historical Data Book
+AU  - Ezell, Linda Neuman
+T2  - The NASA Historical Series
+DA  - 1988///
+PY  - 1988
+VL  - 2
+ER  - 
+
+TY  - RPRT
+TI  - NASA Assessments of Major Projects
+DA  - 2021/05//
+PY  - 2021
+SP  - 146
+LA  - en
+PB  - United States Goverment Accountability Office
+SN  - GAO-21-306
+UR  - https://www-gao-gov.proxy.lib.umich.edu/assets/gao-21-306.pdf
+Y2  - 2021/10/04/22:44:58
+L1  - https://www-gao-gov.proxy.lib.umich.edu/assets/gao-21-306.pdf
+ER  - 
+
+TY  - ELEC
+TI  - Super Strypi conducts inaugural launch - Fails during first stage
+T2  - NASASpaceFlight.com
+AB  - The Super Strypi rocket conducted its maiden flight and the first orbital launch from Barking…
+DA  - 2015/11/03/T23:24:30+00:00
+PY  - 2015
+LA  - en-US
+UR  - https://www.nasaspaceflight.com/2015/11/super-strypi-spark-inaugural-launch/
+Y2  - 2021/10/05/23:24:26
+L2  - https://www.nasaspaceflight.com/2015/11/super-strypi-spark-inaugural-launch/
+ER  - 
+
+TY  - JOUR
+TI  - Bayesian parameter estimation in probabilistic risk assessment
+AU  - Siu, Nathan O.
+AU  - Kelly, Dana L.
+T2  - Reliability Engineering & System Safety
+AB  - Bayesian statistical methods are widely used in probabilistic risk assessment (PRA) because of their ability to provide useful estimates of model parameters when data are sparse and because the subjective probability framework, from which these methods are derived, is a natural framework to address the decision problems motivating PRA. This paper presents a tutorial on Bayesian parameter estimation especially relevant to PRA. It summarizes the philosophy behind these methods, approaches for constructing likelihood functions and prior distributions, some simple but realistic examples, and a variety of cautions and lessons regarding practical applications. References are also provided for more in-depth coverage of various topics.
+DA  - 1998/10/01/
+PY  - 1998
+DO  - 10.1016/S0951-8320(97)00159-2
+DP  - ScienceDirect
+VL  - 62
+IS  - 1
+SP  - 89
+EP  - 116
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 0951-8320
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832097001592
+Y2  - 2021/10/05/20:43:37
+L1  - https://pdf-sciencedirectassets-com.proxy.lib.umich.edu/271430/1-s2.0-S0951832000X00415/1-s2.0-S0951832097001592/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEBgaCXVzLWVhc3QtMSJHMEUCIArY0pWk6T5caqOany%2BnDM4fBtIRgGbQhpAfNL9gJrjMAiEAjGssmCtfssealsXd0geJ85K%2FfTy4nQsGOOwn6d8u%2Bn4qgwQIkP%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAEGgwwNTkwMDM1NDY4NjUiDC7CtyffKiS8p4XecirXA3B%2FvV4d%2BhD9msHElbpPlA7mfBnHEq%2BuDIofpsQK6LQFP2N4KAdDtY6l%2BkmI207ghimHmuT61zyIC2M3DakxACY0uT52X9SFhus9UnniSnVQI%2BTHdpsDfyFtWifhzTkkhyGtkwLGMQsOGtVVvjzentkg2ELujGPByFzrrlDClXEguPkq%2Fldbau8qoxU8hF3VBi6z%2F0%2ByjAsoaxIjTyK48gMcF00LzUoL7mxKTGzVHkF1sz9LfvLz2P%2B5OKeyJ0cqj%2BD2Fy%2BuXozVfzfbQOEUL%2BHc%2FlbAHX0CynwgMOsk%2F%2B%2Bu1wZSi8PMAfvSUfoAq0nIv%2BQKqh4Ccw%2FSJ1aYQG9SREuonihOSisUujSQbvwK0CglY0SEm1cguFWlAo4vAg8OtxzqzepE22IxKvLdvTZKU3Lkr92bm4qEN9tM7shq2dTZsjIePQXU7fhBW%2F61xiyttduCE9QIpGsv8BC8AtlmQA1yx6id4eTxIIZ3KBj13mcLwLP0j9VK7Fqn1PACyghEb2A9GNL3ytrpPb0dFCMORPPkwa6aPHKHuW%2Ffx7Lx8p1Yv8XDeuvYMF8c%2FA46bgPs5FvVL7ZAazk1gLSAw0vSNlPQhvCK20j3h60o9qsjKpiL0NDv8K8LezD3nPyKBjqlAS81Vgej30K7Dlgc6BD5kZSxybrtEK%2FLHDyJPYkPMQ4hE08Ipla5CdI7XqB%2BsVmti%2BwuBZT8Vr8muexJof3Rpszdrd7ucj8x79ZIkgcD9EHUknz3sh8RAdRKe4ZVAc3swL8EQlt9CnDiSJjHA5Do9SXpMYndcQuFINrmYLI7HBrd1Xof3TIN9VTqBN6mb8IELrw4a1y7bVaDulfgIyHei2lNR%2BhwCw%3D%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20211007T161647Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY2LGMCSCZ%2F20211007%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=8702403c601460d2749fee51cdc111d8c4a2c98e00336e58266fe6045267417b&hash=fdc20e5c373c39dd740bbad4c7b59d51fa50bf4c82acd116dd721ef7e57c7b71&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0951832097001592&tid=spdf-dfee5055-0224-49eb-8a43-8390b271112e&sid=4bb2f51b8d019340887b6c78a96509ee78c6gxrqa&type=client
+ER  - 
+
+TY  - JOUR
+TI  - A hierarchical model for estimating the early reliability of complex systems
+AU  - Johnson, V.E.
+AU  - Moosman, A.
+AU  - Cotter, P.
+T2  - IEEE Transactions on Reliability
+AB  - We describe a hierarchical Bayesian model for assessing the early reliability of complex systems, for which sparse or no system level failure data are available, except that which exists for comparable systems developed by different categories of manufacturers. Novel features of the model are the inclusion of a "quality" index to allow separate treatment for systems produced by "experienced" & "inexperienced" manufacturers. We show how this index can be employed to distinguish the behavior of systems produced by each category of manufacturer for the first few applications, with later pooling of outcomes from both categories of manufacturers after the first few uses (i.e., after inexperienced manufacturers gain experience). We demonstrate how this model, together with suitable informative priors, can reproduce the reliability growth in the modeled systems. Estimation of failure probabilities (and associated uncertainties) for early launches of new space vehicles is used to illustrate the methodology. Disclaimer-This paper is provided solely to illustrate how hierarchical Bayesian methods can be applied to estimate systems reliability (including uncertainties) for newly introduced complex systems with sparse or nonexistent system level test data. The example problem considered (i.e. estimating failure probabilities of new launch vehicles) is employed solely for illustrative purposes. The authors have made numerous assumptions & approximations throughout the document in order to demonstrate the central techniques. The specific methodologies, results, and conclusions presented in this paper are neither approved nor endorsed by the United States Air Force or the Federal Aviation Administration.
+DA  - 2005/06//
+PY  - 2005
+DO  - 10.1109/TR.2005.847262
+DP  - IEEE Xplore
+VL  - 54
+IS  - 2
+SP  - 224
+EP  - 231
+SN  - 1558-1721
+L1  - http://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=1435714&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL3N0YW1wL3N0YW1wLmpzcD90cD0mYXJudW1iZXI9MTQzNTcxNA==
+L2  - http://ieeexplore.ieee.org/document/1435714?arnumber=1435714
+KW  - Reliability
+KW  - Bayesian inference
+KW  - Space vehicles
+KW  - Bayesian methods
+KW  - binary regression
+KW  - FAA
+KW  - Failure analysis
+KW  - Functional analysis
+KW  - Markov chain
+KW  - Maximum likelihood estimation
+KW  - Monte Carlo
+KW  - Monte Carlo methods
+KW  - Uncertainty
+KW  - Virtual manufacturing
+ER  - 
+
+TY  - CONF
+TI  - The Recent Large Reduction in Space Launch Cost
+AU  - Jones, Harry W
+T2  - 48th International Conference on Environmental Systems
+AB  - The development of commercial launch systems has substantially reduced the cost of space launch. NASA’s space shuttle had a cost of about $1.5 billion to launch 27,500 kg to Low Earth Orbit (LEO), $54,500/kg. SpaceX’s Falcon 9 now advertises a cost of $62 million to launch 22,800 kg to LEO, $2,720/kg. Commercial launch has reduced the cost to LEO by a factor of 20. This will have a substantial impact on the space industry, military space, and NASA. Existing launch providers are reducing their costs and so are satellite developers. The military foresees an opportunity to rapidly replace compromised space assets that provided communications, weather, surveillance, and positioning. NASA supported the development of commercial space launch and NASA science anticipates lower cost missions, but human space flight planning seems unreactive. Specifically, it has been claimed that commercial spaceflight has not reduced the cost to provide cargo to the International Space Station (ISS). The key factor is that the space shuttle can provide cargo and crew to ISS while the Falcon 9 must also use the Dragon capsule, which adds cost and reduces payload. The cost of a Falcon 9 and Dragon capsule mission to ISS is about $140 million with a payload of 6,000 kg, $23,300/kg. The shuttle payload to ISS is less than to LEO, 16,050 kg, so its cost is also higher at $93,400/kg. The launch cost to ISS has been reduced by a factor of 4. Calculations that show commercial launch provides no cost reduction to ISS assume half the usually cited shuttle cost and allocate it to the actual delivered payload, about half the full capacity. In a split mission, with crew and pressurized cargo launched separately from hardware and materials, the higher Falcon 9 plus Dragon costs would apply only to a fraction of the launch mass. A 4 to 1 cost reduction saves most, 75%, of the total cost. A further reduction to 10 or 20 to 1 saves 90 or 95%, but this is only a small, 15 or 20%, portion of the original cost. The recently reduced space launch cost can be expected to substantially impact human space flight.
+C1  - Albuquerque, NM
+DA  - 2018/07/08/12
+PY  - 2018
+DP  - Zotero
+SP  - 10
+LA  - en
+L1  - https://ttu-ir.tdl.org/bitstream/handle/2346/74082/ICES_2018_81.pdf
+ER  - 
+
+TY  - SLIDE
+TI  - SpaceX - Capabilities & Services
+UR  - https://www.spacex.com/media/Capabilities&Services.pdf
+Y2  - 2021/10/04/22:38:00
+L1  - https://www.spacex.com/media/Capabilities&Services.pdf
+ER  - 
+
+TY  - ELEC
+TI  - System Safety Handbook
+LA  - en-us
+M3  - template
+UR  - https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management/ss_handbook/
+Y2  - 2021/10/04/17:47:25
+L2  - https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/risk_management/ss_handbook/
+ER  - 
+
+TY  - JOUR
+TI  - Synthesizing a New Launch Vehicle Failure Probability Based on Historical Flight Data
+AU  - Cross, Robert B
+AU  - Vesely, William E
+T2  - Los Angeles
+AB  - New launch vehicles have historically had significantly higher failure rates in early flights than what has been predicted using Probabilistic Risk Assessment - PRA. This is because PRAs typically model a mature vehicle where a significant portion of the early failure probability contributors have been eliminated due to testing and improvements after actual field operation. To capture a more accurate early flight failure probability estimate, this paper develops a method that estimates ascent failure probability starting with the first flight based on historical launch vehicle records. With new launch vehicles being developed, such as the Space Launch System - SLS, a PRA model must be extended to cover early flight failure probability contributions that are either not covered in the maturevehicle PRA or are underestimated. These failure probability contributions include design errors, quality control deficiencies, installation errors, and environmental impacts. There are also failure dependencies due to systemic errors that still exist due to limited entire-system testing.
+DA  - 2018///
+PY  - 2018
+DP  - Zotero
+SP  - 8
+LA  - en
+L1  - http://www.iapsam.org/psam14/proceedings/paper/paper_281_1.pdf
+N1  - <p>Need to follow references!</p>
+<p> </p>
+ER  - 
+
+TY  - CHAP
+TI  - Dynamic Fault Tree Analysis: Simulation Approach
+AU  - Rao, K. Durga
+AU  - Rao, V.V.S. Sanyasi
+AU  - Verma, A. K.
+AU  - Srividya, A.
+T2  - Simulation Methods for Reliability and Availability of Complex Systems
+A2  - Faulin, Javier
+A2  - Juan, Angel A.
+A2  - Martorell, Sebastián
+A2  - Ramírez-Márquez, José-Emmanuel
+T3  - Springer Series in Reliability Engineering
+AB  - Fault tree analysis (FTA) is extensively used for reliability and safety assessment of complex and critical engineering systems. One of the important limitations of conventional FTA is the inability for one to incorporate complex component interactions such as sequence dependent failures. Dynamic gates are introduced to extend conventional FT to model these complex interactions. This chapter presents various methods available in the literature to solve dynamic fault trees (DFT). Special emphasis on a simulation-based approach is given as analytical methods have some practical limitations.
+CY  - London
+DA  - 2010///
+PY  - 2010
+DP  - Springer Link
+SP  - 41
+EP  - 64
+LA  - en
+PB  - Springer
+SN  - 978-1-84882-213-9
+ST  - Dynamic Fault Tree Analysis
+UR  - https://doi.org/10.1007/978-1-84882-213-9_2
+Y2  - 2021/10/04/01:02:25
+L1  - http://link.springer.com/content/pdf/10.1007%2F978-1-84882-213-9_2.pdf
+KW  - Fault Tree
+KW  - Maintenance Policy
+KW  - Mission Time
+KW  - Preventive Maintenance
+KW  - Time Diagram
+ER  - 
+
+TY  - JOUR
+TI  - Fault-Tree Analysis by Fuzzy Probability
+AU  - Tanaka, Hideo
+AU  - Fan, L. T.
+AU  - Lai, F. S.
+AU  - Toguchi, K.
+T2  - IEEE Transactions on Reliability
+AB  - In conventional fault-tree analysis, the failure probabilities of components of a system are treated as exact values in estimating the failure probability of the top event. For many systems, it is often difficult to evaluate the failure probabilities of components from past occurrences because the environments of the systems change. Furthermore, it might be necessary to consider possible failure of components even if they have never failed before. We, therefore, propose to employ the possibility of failure, viz. a fuzzy set defined in probability space. The notion of the possibility of failure is more predictive than that of the probability of failure; the latter is a limiting case of the former. In the present approach based on a fuzzy fault-tree model, the maximum possibility of system failure is determined from the possibility of failure of each component within the system according to the extension principle. In calculating the possibility of system failure, some approximation is made for simplicity.
+DA  - 1983/12//
+PY  - 1983
+DO  - 10.1109/TR.1983.5221727
+DP  - IEEE Xplore
+VL  - R-32
+IS  - 5
+SP  - 453
+EP  - 457
+SN  - 1558-1721
+L1  - http://ieeexplore.ieee.org/stampPDF/getPDF.jsp?tp=&arnumber=5221727&ref=aHR0cHM6Ly9pZWVleHBsb3JlLmllZWUub3JnL2RvY3VtZW50LzUyMjE3Mjc=
+KW  - Failure analysis
+KW  - Uncertainty
+KW  - Accidents
+KW  - Extension principle
+KW  - Fault trees
+KW  - Fault-tree analysis
+KW  - Fuzzy set theory
+KW  - Fuzzy sets
+KW  - Fuzzy-set theory
+KW  - Laboratories
+KW  - Possibility of failure
+KW  - Probability
+KW  - Probability of failure
+KW  - Shape
+KW  - Statistics
+ER  - 
+
+TY  - JOUR
+TI  - Fuzzy fault tree analysis: a review of concept and application
+AU  - Mahmood, Y. A.
+AU  - Ahmadi, A.
+AU  - Verma, A. K.
+AU  - Srividya, A.
+AU  - Kumar, U.
+T2  - International Journal of System Assurance Engineering and Management
+AB  - Fault tree analysis (FTA) is a widely used method for analyzing a system’s failure logic and calculating overall reliability. However, application of conventional FTA has some shortcomings, e.g. in handling the uncertainties, allowing the use of linguistic variables, and integrating human error in failure logic model. Hence, Fuzzy set theory has been proposed to overcome the limitation of conventional FTA. Fuzzy logic provides a framework whereby basic notions such as similarity, uncertainty and preference can be modeled effectively. The aim of this paper is to present a review of the concept of fuzzy theory with fault tree analysis and their applications since 1981, to reflect the current status of Fuzzy fault tree analysis (FFTA) methodologies, their strengths, weaknesses, and their applications. This paper explains the fundamentals of fuzzy theory and describes application of fuzzy importance for using FFTA. The concept of the failure possibility and uncertainty analysis by using FFTA is discussed, and concludes with discussion on the application of FFTA in different fields. The review reveals the effectiveness of the FFTA in comparison with conventional FTA, when there is inadequate amount of accurate reliability oriented information.
+DA  - 2013/03/01/
+PY  - 2013
+DO  - 10.1007/s13198-013-0145-x
+DP  - Springer Link
+VL  - 4
+IS  - 1
+SP  - 19
+EP  - 32
+J2  - Int J  Syst  Assur  Eng  Manag
+LA  - en
+SN  - 0976-4348
+ST  - Fuzzy fault tree analysis
+UR  - https://doi.org/10.1007/s13198-013-0145-x
+Y2  - 2021/10/04/00:53:51
+L1  - http://link.springer.com/content/pdf/10.1007%2Fs13198-013-0145-x.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Assessing systems thinking: A tool to measure complex reasoning through ill-structured problems
+AU  - Grohs, Jacob R.
+AU  - Kirk, Gary R.
+AU  - Soledad, Michelle M.
+AU  - Knight, David B.
+T2  - Thinking Skills and Creativity
+AB  - An increasingly important aim of higher education is to develop graduates capable of addressing complex, interdependent problems. Systems thinking is a critical interdisciplinary skill that describes the cognitive flexibility needed to collaboratively work on problems facing society. Although institutions of higher education are asked to develop systems thinkers and many programs strive towards such an aim, mechanisms to assess this competency are lacking. This paper (1) presents a framework for operationalizing systems thinking competency, and (2) shares a novel scenario-based assessment tool based on the framework. The paper describes the iterative development of the community-level problem scenario and associated scoring rubric based on a set of 93 student responses. Appendices contain the full tool consisting of the problem scenario, scoring rubric, and other guiding documents to enable others to adopt the tool for research purposes or to assess student outcomes from university programs.
+DA  - 2018/06/01/
+PY  - 2018
+DO  - 10.1016/j.tsc.2018.03.003
+DP  - ScienceDirect
+VL  - 28
+SP  - 110
+EP  - 130
+J2  - Thinking Skills and Creativity
+LA  - en
+SN  - 1871-1871
+ST  - Assessing systems thinking
+UR  - https://www.sciencedirect.com/science/article/pii/S1871187117302511
+Y2  - 2021/10/08/12:48:26
+L1  - https://vtechworks.lib.vt.edu/bitstream/10919/93723/1/1-s2.0-S1871187117302511-main.pdf
+L2  - http://www.sciencedirect.com/science/article/pii/S1871187117302511?dgcid=raven_sd_recommender_email
+KW  - Assessment tool
+KW  - College-wide learning outcomes
+KW  - Complex problems
+KW  - Ill-structured problems
+KW  - Problem-solving
+KW  - Rubric
+KW  - Scenario-based assessment
+KW  - Systems thinking
+KW  - Wicked problems
+ER  - 
+
+TY  - JOUR
+TI  - A Bayesian approach for integrating multilevel priors and data for aerospace system reliability assessment
+AU  - Guo, Jian
+AU  - Li, Zhaojun
+AU  - Keyser, Thomas
+T2  - Chinese Journal of Aeronautics
+AB  - This paper investigates Bayesian methods for aerospace system reliability analysis using various sources of test data and expert knowledge at both subsystem and system levels. Four scenarios based on available information for the priors and test data of a system and/or subsystems are studied using specific Bayesian inference techniques. This paper proposes the Bayesian melding method for integrating subsystem-level priors with system-level priors for both system- and subsystem-level reliability analysis. System and subsystem reliability outcomes are compared under different scenarios. Computational challenges for posterior inferences using the sophisticated Bayesian melding method are addressed using Markov Chain Monte Carlo (MCMC) and adaptive Sampling Importance Re-sampling (SIR) methods. A case study with simulation results illustrates the applications of the proposed methods and provides insights for aerospace system reliability analysis using available multilevel information.
+DA  - 2018/01/01/
+PY  - 2018
+DO  - 10.1016/j.cja.2017.08.020
+DP  - ScienceDirect
+VL  - 31
+IS  - 1
+SP  - 41
+EP  - 53
+J2  - Chinese Journal of Aeronautics
+LA  - en
+SN  - 1000-9361
+UR  - https://www.sciencedirect.com/science/article/pii/S1000936117302650
+Y2  - 2021/10/08/01:58:00
+KW  - Bayesian inference
+KW  - Bayesian melding
+KW  - Markov Chain Monte Carlo (MCMC)
+KW  - Multilevel information
+KW  - Sampling Importance Re-sampling (SIR)
+KW  - System reliability
+ER  - 
+
+TY  - JOUR
+TI  - Bayesian data analysis for newcomers
+AU  - Kruschke, John K.
+AU  - Liddell, Torrin M.
+T2  - Psychonomic Bulletin & Review
+DA  - 2018/02//
+PY  - 2018
+DO  - 10.3758/s13423-017-1272-1
+DP  - DOI.org (Crossref)
+VL  - 25
+IS  - 1
+SP  - 155
+EP  - 177
+J2  - Psychon Bull Rev
+LA  - en
+SN  - 1069-9384, 1531-5320
+UR  - http://link.springer.com/10.3758/s13423-017-1272-1
+Y2  - 2021/10/08/01:56:14
+L1  - https://link.springer.com/content/pdf/10.3758/s13423-017-1272-1.pdf
+ER  - 
+
+TY  - ELEC
+TI  - United Nations Register of Objects Launched into Outer Space
+UR  - https://www.unoosa.org/oosa/en/spaceobjectregister/index.html
+Y2  - 2021/10/08/01:52:36
+L2  - https://www.unoosa.org/oosa/en/spaceobjectregister/index.html
+ER  - 
+
+TY  - JOUR
+TI  - Bayesian Inference of Aircraft Initial Mass
+AU  - Sun, Junzi
+AU  - Ellerbroek, Joost
+AU  - Hoekstra, Jacco
+AB  - Aircraft mass is a crucial piece of information for studies on aircraft performance, trajectory prediction, and many other ATM topics. However, it is a common challenge for researchers who have no access to this proprietary information. Previously, several studies have proposed methods to estimates aircraft weight, most of which are focused on speciﬁc parts of the ﬂight. Often due to inaccurate input data or biased assumptions, a signiﬁcant number of estimates can result outside of the weight limitation boundaries. This paper proposes an approach that makes use of multiple observations to get a better estimate for a complete ﬂight. By looking at ﬂight data from a complete trajectory and calculating aircraft mass at different ﬂight phases based on different methods, together with fuel ﬂow models, multiple observations of aircraft initial mass can then be derived. Using the Bayesian inference method, ﬁnal estimates can be made with a higher level of conﬁdence.
+DP  - Zotero
+SP  - 9
+LA  - en
+ER  - 
+
+TY  - ELEC
+TI  - Space Launch Vehicle Reliability
+UR  - https://www.tech-insider.org/related/research/2001/0301.html
+Y2  - 2021/10/08/01:51:09
+L2  - https://www.tech-insider.org/related/research/2001/0301.html
+ER  - 
+
+TY  - BOOK
+TI  - International Reference Guide to Space Launch Systems, Fourth Edition
+AU  - Hopkins Jr., Joseph
+AU  - Hopkins, Joshua
+AU  - Isakowitz, Steven
+CY  - Washington, DC
+DA  - 2004///
+PY  - 2004
+DP  - American Institute of Aeronautics and Astronautics
+PB  - American Institute of Aeronautics and Astronautics, Inc.
+SN  - 978-1-56347-591-7
+UR  - https://arc.aiaa.org/doi/abs/10.2514/4.475917
+Y2  - 2021/10/08/01:49:03
+L2  - http://arc.aiaa.org/doi/abs/10.2514/4.475917
+ER  - 
+
+TY  - JOUR
+TI  - Fuzzy fault tree analysis: a review of concept and application
+AU  - Mahmood, Y. A.
+AU  - Ahmadi, A.
+AU  - Verma, A. K.
+AU  - Srividya, A.
+AU  - Kumar, U.
+T2  - International Journal of System Assurance Engineering and Management
+AB  - Fault tree analysis (FTA) is a widely used method for analyzing a system’s failure logic and calculating overall reliability. However, application of conventional FTA has some shortcomings, e.g. in handling the uncertainties, allowing the use of linguistic variables, and integrating human error in failure logic model. Hence, Fuzzy set theory has been proposed to overcome the limitation of conventional FTA. Fuzzy logic provides a framework whereby basic notions such as similarity, uncertainty and preference can be modeled effectively. The aim of this paper is to present a review of the concept of fuzzy theory with fault tree analysis and their applications since 1981, to reﬂect the current status of Fuzzy fault tree analysis (FFTA) methodologies, their strengths, weaknesses, and their applications. This paper explains the fundamentals of fuzzy theory and describes application of fuzzy importance for using FFTA. The concept of the failure possibility and uncertainty analysis by using FFTA is discussed, and concludes with discussion on the application of FFTA in different ﬁelds. The review reveals the effectiveness of the FFTA in comparison with conventional FTA, when there is inadequate amount of accurate reliability oriented information.
+DA  - 2013/03//
+PY  - 2013
+DO  - 10.1007/s13198-013-0145-x
+DP  - DOI.org (Crossref)
+VL  - 4
+IS  - 1
+SP  - 19
+EP  - 32
+J2  - Int J Syst Assur Eng Manag
+LA  - en
+SN  - 0975-6809, 0976-4348
+ST  - Fuzzy fault tree analysis
+UR  - http://link.springer.com/10.1007/s13198-013-0145-x
+Y2  - 2021/10/08/01:47:37
+ER  - 
+
+TY  - JOUR
+TI  - Small-Satellite Mission Failure Rates
+AU  - Jacklin, Stephen A
+AB  - The purpose of this report is to determine the failure rate of small-satellite missions launched between the years 2000 and 2016. This analysis considers the rates of both partial and total mission failure, as well as the failures attributable to failure of the launch vehicle.
+DA  - 2019///
+PY  - 2019
+DP  - Zotero
+SP  - 46
+LA  - en
+ER  - 
+
+TY  - CONF
+TI  - Fleet level anomaly detection of aviation safety data
+AU  - Das, Santanu
+AU  - Matthews, Bryan L.
+AU  - Lawrence, Robert
+T2  - 2011 IEEE Conference on Prognostics and Health Management (PHM)
+AB  - For the purposes of this paper, the National Airspace System (NAS) encompasses the operations of all aircraft which are subject to air trafﬁc control procedures. The NAS is a highly complex dynamic system that is sensitive to aeronautical decision-making and risk management skills. In order to ensure a healthy system with safe ﬂights a systematic approach to anomaly detection is very important when evaluating a given set of circumstances and for determination of the best possible course of action. Given the fact that the NAS is a vast and loosely integrated network of systems, it requires improved safety assurance capabilities to maintain an extremely low accident rate under increasingly dense operating conditions. Data mining based tools and techniques are required to support and aid operators’ (such as pilots, management, or policy makers) overall decision-making capacity. Within the NAS, the ability to analyze ﬂeetwide aircraft data autonomously is still considered a signiﬁcantly challenging task. For our purposes a ﬂeet is deﬁned as a group of aircraft sharing generally compatible parameter lists. Here, in this effort, we aim at developing a system level analysis scheme. In this paper we address the capability for detection of ﬂeetwide anomalies as they occur, which itself is an important initiative toward the safety of the real-world ﬂight operations. The ﬂight data recorders archive millions of data points with valuable information on ﬂights everyday. The operational parameters consist of both continuous and discrete (binary & categorical) data from several critical subsystems and numerous complex procedures. In this paper, we discuss a system level anomaly detection approach based on the theory of kernel learning to detect potential safety anomalies in a very large data base of commercial aircraft. We also demonstrate that the proposed approach uncovers some operationally signiﬁcant events due to environmental, mechanical, and human factors issues in high dimensional, multivariate Flight Operations Quality Assurance (FOQA) data. We present the results of our detection algorithms on real FOQA data from a regional carrier.
+C1  - Denver, CO, USA
+C3  - 2011 IEEE Conference on Prognostics and Health Management
+DA  - 2011/06//
+PY  - 2011
+DO  - 10.1109/ICPHM.2011.6024356
+DP  - DOI.org (Crossref)
+SP  - 1
+EP  - 10
+LA  - en
+PB  - IEEE
+SN  - 978-1-4244-9828-4
+UR  - http://ieeexplore.ieee.org/document/6024356/
+Y2  - 2021/10/08/01:33:38
+ER  - 
+
+TY  - BOOK
+TI  - Statistical Analysis of Reliability Data
+AU  - Crowder, Martin J
+AB  - Written for those who have taken a first course in statistical methods, this book takes a modern, computer-oriented approach to describe the statistical techniques used for the assessment of reliability.
+DA  - 2017///
+PY  - 2017
+DP  - Open WorldCat
+LA  - English
+SN  - 978-1-351-41461-6 978-0-203-73872-6 978-1-351-41462-3 978-1-351-41460-9
+UR  - http://www.myilibrary.com?id=1048823
+Y2  - 2021/10/08/01:32:04
+ER  - 
+
+TY  - JOUR
+TI  - Prediction of aircraft safety incidents using Bayesian inference and hierarchical structures
+AU  - Arnaldo Valdés, Rosa María
+AU  - Gómez Comendador, V. Fernando
+AU  - Perez Sanz, Luis
+AU  - Rodriguez Sanz, Alvaro
+T2  - Safety Science
+AB  - Today, aviation is immersed in a shift from old-fashioned reactive and compliance-based safety approaches towards proactive and performance-based methods and tools. Stakeholders have to monitor, gather and analyse safety-related data and information in order to anticipate and predict actual and emerging safety risks. In this context safety analytics and statistics need to evolve to forecast future safety performances and risks. This research adopts an innovative statistical approach involving the use of Bayesian inference and Hierarchical structures to develop statistical estimation and prediction models with different complexities and objectives. The study develops and analyses five Bayesian models of increasing difficulty, two basic and three Hierarchical models, which allows us to explore safety incident data, efficiently identify anomalies, assess the level of risk, define an objective framework for comparing air carriers, and finally predict and anticipate incidents.
+DA  - 2018/04/01/
+PY  - 2018
+DO  - 10.1016/j.ssci.2018.01.008
+DP  - ScienceDirect
+VL  - 104
+SP  - 216
+EP  - 230
+J2  - Safety Science
+LA  - en
+SN  - 0925-7535
+UR  - https://www.sciencedirect.com/science/article/pii/S0925753517301868
+Y2  - 2021/10/08/01:21:45
+L2  - http://www.sciencedirect.com/science/article/pii/S0925753517301868
+N1  - <p>Need to look into this</p>
+KW  - Bayesian inference
+KW  - Hierarchical models
+KW  - Incident rate
+KW  - Predictive models
+KW  - Risk
+ER  - 
+
+TY  - JOUR
+TI  - Bayesian Reliability Analysis
+AU  - Martz, Harry F
+AB  - Bayesian reliability methods permit the formal incorporation of pertinent supplementary information about the parameters of interest in a statistical analysis beyond that contained in the sample data. This additional information is contained in the prior distribution of the parameters. Bayes’ theorem is used to combine the prior and sampling distributions to form the posterior distribution of the parameters. Then all the desired inferences are obtained from this joint posterior. In most practical applications, Markov chain Monte Carlo sampling techniques are used to numerically perform the required calculations. A real-world reliability example that illustrates the Bayesian approach is presented.
+DA  - 2007///
+PY  - 2007
+DP  - Zotero
+SP  - 7
+LA  - en
+ER  - 
+
+TY  - STAT
+TI  - AC 431.35-2A - Reusable Launch and Reentry Vehicle System Safety Process
+T2  - 431.35-2A
+LA  - en-us
+UR  - https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22310
+Y2  - 2021/10/08/00:14:18
+L2  - https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22310
+ER  - 
+
+TY  - GEN
+TI  - Fault Tree Handbook with Aerospace Applications
+AU  - Vesely, William
+A2  - Stamatelatos, Michael
+A2  - Caraballo, José
+DA  - 2002/08//
+PY  - 2002
+PB  - National Aeronautics and Space Administration, NASA Headquarters, Office of Safety and Mission Assurance
+UR  - http://www.mwftr.com/CS2/Fault%20Tree%20Handbook_NASA.pdf
+Y2  - 2021/10/07/22:03:07
+L1  - http://www.mwftr.com/CS2/Fault%20Tree%20Handbook_NASA.pdf
+ER  - 
+
+TY  - GEN
+TI  - ARP4761: Guidelines and Methods for Conducting the Safety Assessment Process on Civil Airborne Systems and Equipment - SAE International
+AB  - This document describes guidelines and methods of perfomring the safety assessment for certification of civil aircraft. It is primarily associated with showing compliance with FAR/JAR 25.1309. The methods  outlined here identify a systematic means, but not the only means, to  show compliance. A sub
+DA  - 1996/12/01/
+PY  - 1996
+LA  - en
+PB  - Society of Automotive Engineers (SAE)
+ST  - ARP4761
+UR  - http://www.sae.org/standards/content/arp4761/
+Y2  - 2021/10/07/22:20:44
+L2  - http://www.sae.org/standards/content/arp4761/
+ER  - 
+
+TY  - STAT
+TI  - Subject: System Safety Analysis and Assessment for Part 23 Airplanes
+T2  - 23.1309-1E
+AB  - This advisory circular (AC) sets forth an acceptable means of showing compliance with Title 14
+of the Code of Federal Regulations (14 CFR), § 23.1309, through Amendment 23-62: for
+equipment, systems, and installations in 14 CFR part 23 airplanes.
+This AC is not mandatory and does not constitute a regulation. It is issued for guidance purposes
+and to outline a method of compliance with the rules. An applicant may elect to follow an
+alternate method, provided the FAA finds it to be an acceptable means of complying with the
+applicable requirements of 14 CPR. However, if the applicant uses the means described in the
+AC, they must follow it in all important respects.
+DA  - 2011/11/17/
+PY  - 2011
+LA  - English
+UR  - https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_23_1309-1E.pdf
+Y2  - 2021/10/07/22:14:52
+L1  - https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_23_1309-1E.pdf
+N1  - <p>19. Assessment of failure condition probabilities and analysis considerations. a. An assessment of the probability of a failure condition may be either qualitative or quantitative. An analysis may range from a simple report that interprets test results or compares two similar systems to a detailed analysis that may or may not include estimated numerical probabilities. The depth and scope of an analysis depends on the type of functions performed by the system, the severity of failure conditions, and whether the system is complex. A quantitative analysis is intended to supplement, but not replace, qualitative methods based on engineering and operational judgment. A quantitative analysis is often used for catastrophic or hazardous failure conditions of systems that are complex and major failure conditions that are complex without redundancy. For the cases were there is insufficient service experience to help substantiate their safety, or that have attributes that differ significantly from those of conventional systems. b. A probability analysis may be either an FMEA or an FTA, which also includes numerical probability information. Numerical values are assigned to the probabilistic terms included in the requirements for use in those cases where the impact of system failures is examined by quantitative analysis methods. c. The probabilities of primary failures can be determined from failure rate data and exposure times using failure rates derived from either service experience on identical or similar items, manufacturer’s accelerating testing data, or from acceptable industry standards. Conventional mathematics of probability can then be used to calculate the estimated probability of each failure condition as a function of the estimated probabilities of the various identified contributory failures or other events. See Appendix D of ARP 4761 for more information. d. When calculating the estimated probability of each failure condition, a margin may be necessary to account for uncertainty. A margin is not normally required for an analysis that is based on proven data or from operational experience and tests. Where data has limited background for substantiation, a margin may be required depending on the available justification. e. The applicant should obtain early certification authority concurrence for an acceptable classification of the failure conditions and probability for each minor, major, hazardous, and catastrophic failure condition. Early concurrence on the classification of the failure conditions may reduce the applicant’s efforts in determining the probabilities resulting from changes. f. The details on how to calculate the “average probability per flight hour” for a failure condition are given in Appendix 3. The “average probability per flight hour” is the probability of occurrence, normalized by the flight time of a failure condition during a single flight. If the probability of a subject failure condition occurring during a typical flight of mean duration for the airplane type, divided by the flight’s mean duration in hours, is likely to be significantly different from the predicted average rate of occurrence of that failure condition during the entire operational life of all airplanes of that type, then a risk model that better reflects the failure condition should be used. The single flight is analyzed to be representative of an average over</p>
+N1  - <p>Pull ARP4761</p>
+ER  - 
+
+TY  - RPRT
+TI  - Bayesian Inference for NASA Probabilistic Risk and Reliability Analysis
+AU  - Dezfuli, Homayoon
+AU  - Kelly, Dana
+AU  - Smith, Curtis
+AU  - Vedros, Kurt
+AU  - Galyean, William
+DA  - 2009/06//
+PY  - 2009
+DP  - Zotero
+SP  - 275
+LA  - en
+PB  - National Aeronautics and Space Administration (NASA)
+SN  - NASA/SP-2009-569
+N1  - <p>Need to pull: 8000.4 (Agency Risk Management Procedural Requirements), NPR 8705.05 (Probabilistic Risk Assessment Procedures for NASA Programs and Projects), and the System Safety requirements of NPR 8715.3 (NASA General Safety Program Requirements)</p>
+ER  - 
+
+TY  - BOOK
+TI  - Probabilistic risk assessment procedures guide for NASA managers and practitioners
+AU  - Stamatelatos, Michaēl
+AU  - Dezfuli, Homayoon
+AU  - Assurance, NASA Office of Safety and Mission
+AU  - Stamatelatos, Michaēl
+AU  - Dezfuli, Homayoon
+T2  - NASA/SP ; 2011-3421
+CY  - Washington, DC :
+DA  - 2011///
+PY  - 2011
+ET  - 2nd ed.
+PB  - National Aeronautics and Space Administration, NASA Headquarters, Office of Safety and Mission Assurance
+L2  - https://search.lib.umich.edu/catalog/record/990117077030106381?query=Stamatelatos&utm_source=lib-home
+ER  - 
+
+TY  - CHAP
+TI  - Chapter 29 - Probabilistic Risk Assessment with Emphasis on Design
+AU  - Stamatelatos, Michael G.
+AU  - Vesely, William E.
+AU  - Prassinos, Peter G.
+T2  - Safety Design for Space Systems
+A2  - Musgrave, Gary Eugene
+A2  - Larsen, Axel (Skip) M.
+A2  - Sgobba, Tommaso
+AB  - The fault trees are linked to the event sequence diagrams or event trees by substituting the fault trees for the pivotal events. This linkage is carried out by expressing the paths in the event sequence diagrams or event trees in terms of Boolean expressions. The fault trees are also expressed as Boolean expressions. The expressions for the top events in the fault trees are then substituted for the corresponding pivotal events. In this manner, the accident scenarios are expressed in terms of the basic events for which probabilities have been estimated based on data or expert opinion. Accident scenario probabilities are determined by manipulating the Boolean expressions containing the basic events with their probabilities. This manipulation is carried by reducing the Boolean expressions to a sum of products to produce the minimal cut sets, which are the smallest combinations of basic events resulting in the end state. The end state probability is then the probability of the logical sum of the minimal cut set probabilities, where each minimal cut set probability is the product of the basic event probabilities that also include dependencies among the basic events. Alternately, the top event probability is determined from the basic event probabilities using binary decision diagrams, which is another method of Boolean reduction that does not involve determination of the minimal cut sets.
+CY  - Burlington
+DA  - 2009/01/01/
+PY  - 2009
+DP  - ScienceDirect
+SP  - 889
+EP  - 911
+LA  - en
+PB  - Butterworth-Heinemann
+SN  - 978-0-7506-8580-1
+UR  - https://www.sciencedirect.com/science/article/pii/B9780750685801000294
+Y2  - 2021/10/07/17:28:28
+L2  - http://www.sciencedirect.com/science/article/pii/B9780750685801000294
+ER  - 
+
+TY  - JOUR
+TI  - Conceptual Launch Vehicle and Spacecract Design for Risk Assessment
+AU  - Motiwala, Samira A
+AU  - Mathias, Donovan L
+AU  - Mattenberger, Christopher J
+T2  - Stanford University
+DA  - 2014///
+PY  - 2014
+DP  - Zotero
+SP  - 36
+LA  - en
+L1  - https://ntrs.nasa.gov/api/citations/20150000182/downloads/20150000182.pdf
+N1  - <p>Good references potentially, Contains component failure data</p>
+<p> </p>
+ER  - 
+
+TY  - JOUR
+TI  - System reliability prediction using data from non-identical environments
+AU  - Bergman, B.
+AU  - Ringi, M.
+T2  - Reliability Engineering & System Safety
+AB  - Since information changes one's mind and probability assessments reflect one's degree of beliefs, a reliability prediction model should enclose all relevant information. Almost always ignored in existing reliability models is the dependence on component life lengths, induced by a common but unknown environment. Furthermore, existing models seldom permit learning from components' performance in similar systems, under the knowledge of non-identical operating environments. In an earlier paper by the present authors the first type of aspects were taken into account and in this paper that model is generalised so that failure data generated from several similar systems in non-identical environments may be used for the prediction of any similar system in its specific environment.
+DA  - 1997/12/01/
+PY  - 1997
+DO  - 10.1016/S0951-8320(97)00051-3
+DP  - ScienceDirect
+VL  - 58
+IS  - 3
+SP  - 185
+EP  - 190
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 0951-8320
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832097000513
+Y2  - 2021/10/07/16:27:31
+L1  - http://www.sciencedirect.com/science/article/pii/S0951832097000513/pdf?md5=e230e0f671ab6d97cb2fa3bb0e269522&pid=1-s2.0-S0951832097000513-main.pdf&isDTMRedir=Y
+ER  - 
+
+TY  - JOUR
+TI  - Bayes or not Bayes, is this the question?
+AU  - K. Hackenberger, Branimir
+T2  - Croatian Medical Journal
+DA  - 2019/02//
+PY  - 2019
+DO  - 10.3325/cmj.2019.60.50
+DP  - PubMed Central
+VL  - 60
+IS  - 1
+SP  - 50
+EP  - 52
+J2  - Croat Med J
+SN  - 0353-9504
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6406060/
+Y2  - 2021/10/07/16:10:30
+L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6406060/pdf/CroatMedJ_0050.pdf
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6406060/
+ER  - 
+
+TY  - BOOK
+TI  - Statistical Decision Theory and Bayesian Analysis
+AU  - Berger, James O.
+T2  - Springer Series in Statistics
+CY  - New York, NY
+DA  - 1985///
+PY  - 1985
+DP  - DOI.org (Crossref)
+LA  - en
+PB  - Springer New York
+SN  - 978-1-4419-3074-3 978-1-4757-4286-2
+UR  - http://link.springer.com/10.1007/978-1-4757-4286-2
+Y2  - 2021/10/07/15:15:48
+L1  - https://link-springer-com.proxy.lib.umich.edu/content/pdf/10.1007%2F978-1-4757-4286-2.pdf
+ER  - 
+
+TY  - BOOK
+TI  - Introduction to Bayesian Analysis: Theory and Methods
+AU  - Casella, George
+AU  - Fienberg, Stephen
+AU  - Olkin, Ingram
+AB  - Currently not available for this book.
+CY  - New York, UNITED STATES
+DA  - 2006///
+PY  - 2006
+DP  - ProQuest Ebook Central
+PB  - Springer New York
+SN  - 978-0-387-35433-0
+ST  - Introduction to Bayesian Analysis
+UR  - http://ebookcentral.proquest.com/lib/umichigan/detail.action?docID=3062235
+Y2  - 2021/10/07/15:05:19
+L2  - http://ebookcentral.proquest.com/lib/umichigan/detail.action?docID=3062235
+KW  - Bayesian statistical decision theory.
+ER  - 
+
+TY  - JOUR
+TI  - Robust Bayesian analysis: sensitivity to the prior
+AU  - Berger, James O.
+T2  - Journal of Statistical Planning and Inference
+DA  - 1990/07/01/
+PY  - 1990
+DO  - 10.1016/0378-3758(90)90079-A
+DP  - ScienceDirect
+VL  - 25
+IS  - 3
+SP  - 303
+EP  - 328
+J2  - Journal of Statistical Planning and Inference
+LA  - en
+SN  - 0378-3758
+ST  - Robust Bayesian analysis
+UR  - https://www.sciencedirect.com/science/article/pii/037837589090079A
+Y2  - 2021/10/07/15:00:26
+L1  - http://www.sciencedirect.com/science/article/pii/037837589090079A/pdf?md5=b4ee9a1316aac41bc0640a648d16da61&pid=1-s2.0-037837589090079A-main.pdf&isDTMRedir=Y
+ER  - 
+
+TY  - JOUR
+TI  - Sensitivity in Bayesian Statistics: The Prior and the Likelihood
+AU  - Lavine, Michael
+T2  - Journal of the American Statistical Association
+AB  - One paradigm for sensitivity analyses in Bayesian statistics is to specify Γ, a reasonable class of priors, and to compute the corresponding class of posterior inferences. The class Γ is chosen to represent uncertainty about the prior. There is often additional uncertainty, however, about the family of sampling distributions. This article introduces a method for computing ranges of posterior expectations over reasonable classes of sampling distributions that lie "close to" a given parametric family. By treating the prior as a probability measure on the space of sampling distributions this article also gives a unified treatment to what are usually considered two separate problems-sensitivity to the prior and sensitivity to the sampling model. First the notion of "close to" is made explicit. Then, an algorithm is given for turning ratio-linear problems into sequences of linear problems. In addition to solving the problem at hand, the algorithm simplifies many other robust Bayesian computational problems. Finally, the method is illustrated with an example.
+DA  - 1991///
+PY  - 1991
+DO  - 10.2307/2290583
+DP  - JSTOR
+VL  - 86
+IS  - 414
+SP  - 396
+EP  - 399
+SN  - 0162-1459
+ST  - Sensitivity in Bayesian Statistics
+UR  - http://www.jstor.org/stable/2290583
+Y2  - 2021/10/07/14:58:27
+ER  - 
+
+TY  - ELEC
+TI  - SpaceX -Mission
+T2  - SpaceX
+AB  - SpaceX designs, manufactures and launches advanced rockets and spacecraft.
+LA  - en
+UR  - http://www.spacex.com/mission
+Y2  - 2021/10/09/00:39:44
+L2  - https://www.spacex.com/mission/
+ER  - 
+
+TY  - ELEC
+TI  - About Blue
+T2  - Blue Origin
+AB  - Earth, in all its beauty, is just our starting place. Blue Origin is opening the promise of space to all.
+LA  - en
+UR  - https://www.blueorigin.com/about-blue
+Y2  - 2021/10/09/00:41:51
+L2  - https://www.blueorigin.com/about-blue
+ER  - 
+
+TY  - JOUR
+TI  - Multi-objective design of aircraft maintenance using Gaussian process learning and adaptive sampling
+AU  - Lee, Juseong
+AU  - Mitici, Mihaela
+T2  - Reliability Engineering & System Safety
+AB  - Aircraft maintenance design aims to identify strategies that render the aircraft reliable for flight in a cost-efficient manner. These are often conflicting objectives. Moreover, existing studies on maintenance design often limit themselves to only one type of maintenance strategy, overlooking other potentially dominating designs. We propose a framework for aircraft maintenance design with explicit reliability and cost-efficiency objectives. We explore the design space of a variety of maintenance strategies ranging from traditional time-based maintenance to predictive maintenance. To explore this design space, we propose an adaptive algorithm using Gaussian process learning and a novel adaptive sampling method. Gaussian process learning models rapidly pre-evaluate new maintenance designs, while adaptive sampling selects for further exploration only those designs that are expected to improve the available Pareto front of maintenance designs. This framework is illustrated for the maintenance of multi-component aircraft systems with k-out-of-n redundancy. The results show that novel predictive maintenance designs based on Remaining-Useful-Life prognostics dominate other maintenance designs, especially in the knee region of the obtained Pareto front, where the most beneficial balance between conflicting objectives is achieved. Our proposed exploration algorithm also outperforms other state-of-the-art exploration algorithms with respect to the quality of the Pareto front obtained.
+DA  - 2021/10/14/
+PY  - 2021
+DO  - 10.1016/j.ress.2021.108123
+DP  - ScienceDirect
+SP  - 108123
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 0951-8320
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832021006189
+Y2  - 2021/10/16/15:07:24
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0951832021006189?dgcid=raven_sd_aip_email
+KW  - Reliability
+KW  - Aircraft maintenance
+KW  - Design space exploration
+KW  - Efficiency
+KW  - Gaussian process learning
+KW  - Multi-objective design
+KW  - Predictive maintenance
+ER  - 
+
+TY  - ELEC
+TI  - Probabilistic Programming and Bayesian Methods for Hackers
+UR  - https://nbviewer.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/
+Y2  - 2021/10/16/14:06:55
+L2  - https://nbviewer.org/github/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/tree/master/
+ER  - 
+
+TY  - BOOK
+TI  - Space mission analysis and design
+T2  - Space technology library
+A3  - Wertz, James Richard
+A3  - Larson, Wiley J.
+CN  - TL790 .S73 1999
+CY  - El Segundo, Calif. : Dordrecht ; Boston
+DA  - 1999///
+PY  - 1999
+DP  - Library of Congress ISBN
+ET  - 3rd ed
+SP  - 969
+PB  - Microcosm ; Kluwer
+SN  - 978-0-7923-5901-2 978-1-881883-10-4
+N1  - Printed material on endpapers Errata sheets inserted Larson's name appears first on earlier edition Earlier edition published 1992
+KW  - Design and construction
+KW  - Planning
+KW  - Space flight
+KW  - Space vehicles
+ER  - 
+
+TY  - JOUR
+TI  - Bayesian Belief Networks for predicting drinking water distribution system pipe breaks
+AU  - Francis, Royce A.
+AU  - Guikema, Seth D.
+AU  - Henneman, Lucas
+T2  - Reliability Engineering & System Safety
+AB  - In this paper, we use Bayesian Belief Networks (BBNs) to construct a knowledge model for pipe breaks in a water zone. To the authors’ knowledge, this is the ﬁrst attempt to model drinking water distribution system pipe breaks using BBNs. Development of expert systems such as BBNs for analyzing drinking water distribution system data is not only important for pipe break prediction, but is also a ﬁrst step in preventing water loss and water quality deterioration through the application of machine learning techniques to facilitate data-based distribution system monitoring and asset management. Due to the difﬁculties in collecting, preparing, and managing drinking water distribution system data, most pipe break models can be classiﬁed as “statistical–physical” or “hypothesis-generating.” We develop the BBN with the hope of contributing to the “hypothesis-generating” class of models, while demonstrating the possibility that BBNs might also be used as “statistical–physical” models. Our model is learned from pipe breaks and covariate data from a mid-Atlantic United States (U.S.) drinking water distribution system network. BBN models are learned using a constraint-based method, a score-based method, and a hybrid method. Model evaluation is based on log-likelihood scoring. Sensitivity analysis using mutual information criterion is also reported. While our results indicate general agreement with prior results reported in pipe break modeling studies, they also suggest that it may be difﬁcult to select among model alternatives. This model uncertainty may mean that more research is needed for understanding whether additional pipe break risk factors beyond age, break history, pipe material, and pipe diameter might be important for asset management planning.
+DA  - 2014/10//
+PY  - 2014
+DO  - 10.1016/j.ress.2014.04.024
+DP  - DOI.org (Crossref)
+VL  - 130
+SP  - 1
+EP  - 11
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 09518320
+UR  - https://linkinghub.elsevier.com/retrieve/pii/S0951832014000921
+Y2  - 2021/10/12/13:23:34
+ER  - 
+
+TY  - JOUR
+TI  - Who Learns Better Bayesian Network Structures: Accuracy and Speed of Structure Learning Algorithms
+AU  - Scutari, Marco
+AU  - Graafland, Catharina Elisabeth
+AU  - Gutiérrez, José Manuel
+T2  - arXiv:1805.11908 [stat]
+AB  - Three classes of algorithms to learn the structure of Bayesian networks from data are common in the literature: constraint-based algorithms, which use conditional independence tests to learn the dependence structure of the data; score-based algorithms, which use goodness-of-fit scores as objective functions to maximise; and hybrid algorithms that combine both approaches. Constraint-based and score-based algorithms have been shown to learn the same structures when conditional independence and goodness of fit are both assessed using entropy and the topological ordering of the network is known (Cowell, 2001). In this paper, we investigate how these three classes of algorithms perform outside the assumptions above in terms of speed and accuracy of network reconstruction for both discrete and Gaussian Bayesian networks. We approach this question by recognising that structure learning is defined by the combination of a statistical criterion and an algorithm that determines how the criterion is applied to the data. Removing the confounding effect of different choices for the statistical criterion, we find using both simulated and real-world complex data that constraint-based algorithms are often less accurate than score-based algorithms, but are seldom faster (even at large sample sizes); and that hybrid algorithms are neither faster nor more accurate than constraint-based algorithms. This suggests that commonly held beliefs on structure learning in the literature are strongly influenced by the choice of particular statistical criteria rather than just by the properties of the algorithms themselves.
+DA  - 2019/07/31/
+PY  - 2019
+DP  - arXiv.org
+ST  - Who Learns Better Bayesian Network Structures
+UR  - http://arxiv.org/abs/1805.11908
+Y2  - 2021/10/26/16:55:55
+L1  - https://arxiv.org/pdf/1805.11908.pdf
+L2  - https://arxiv.org/abs/1805.11908
+N1  - Comment: 27 pages, 8 figures
+KW  - Statistics - Machine Learning
+KW  - Statistics - Methodology
+ER  - 
+
+TY  - ELEC
+TI  - List of Spacecrafts - ISRO
+UR  - https://www.isro.gov.in/list-of-spacecrafts
+Y2  - 2021/10/26/21:54:45
+L2  - https://www.isro.gov.in/list-of-spacecrafts
+ER  - 
+
+TY  - JOUR
+TI  - Automated guided vehicle mission reliability modelling using a combined fault tree and Petri net approach
+AU  - Yan, Rundong
+AU  - Jackson, Lisa M.
+AU  - Dunnett, Sarah J.
+T2  - The International Journal of Advanced Manufacturing Technology
+AB  - Automated guided vehicles (AGVs) are being extensively used for intelligent transportation and distribution of materials in warehouses and autoproduction lines due to their attributes of high efficiency and low costs. Such vehicles travel along a predefined route to deliver desired tasks without the supervision of an operator. Much effort in this area has focused primarily on route optimisation and traffic management of these AGVs. However, the health management of these vehicles and their optimal mission configuration have received little attention. To assure their added value, taking a typical AGV transport system as an example, the capability to evaluate reliability issues in AGVs are investigated in this paper. Following a failure modes effects and criticality analysis (FMECA), the reliability of the AGV system is analysed via fault tree analysis (FTA) and the vehicles mission reliability is evaluated using the Petri net (PN) method. By performing the analysis, the acceptability of failure of the mission can be analysed, and hence the service capability and potential profit of the AGV system can be reviewed and the mission altered where performance is unacceptable. The PN method could easily be extended to have the capability to deal with fleet AGV mission reliability assessment.
+DA  - 2017/09/01/
+PY  - 2017
+DO  - 10.1007/s00170-017-0175-7
+DP  - Springer Link
+VL  - 92
+IS  - 5
+SP  - 1825
+EP  - 1837
+J2  - Int J Adv Manuf Technol
+LA  - en
+SN  - 1433-3015
+UR  - https://doi.org/10.1007/s00170-017-0175-7
+Y2  - 2021/11/04/21:05:22
+L1  - https://link.springer.com/content/pdf/10.1007%2Fs00170-017-0175-7.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Availability analysis of safety critical systems using advanced fault tree and stochastic Petri net formalisms
+AU  - Talebberrouane, Mohammed
+AU  - Khan, Faisal
+AU  - Lounis, Zoubida
+T2  - Journal of Loss Prevention in the Process Industries
+AB  - Failure scenarios analysis constitutes one of the cornerstones of risk assessment and availability analysis. After a detailed review of available methods, this paper identified two distinct formalisms to analyze failure scenarios and systems' availability: generalized stochastic Petri nets (GSPN) and Fault tree driven Markov processes (FTDMP). The FTDMP formalism is a combination of the Markov process and the fault tree. This aims to overcome fault tree limitations while maintaining the use of deductive logic. The GSPN is a Petri net with probabilistic analysis using Monte Carlo simulation. The effectiveness of both methods is studied through an emergency flare system including a knockout drum. It is observed that GSPN provides a robust and reliable mechanism for accident scenario analysis. It provides additional information such as events' frequencies at operating and failing modes and expected occurrence timing and durations resulting from different complex sequences. Even for multi-state variables which could be used to design a safety management system. Although FTDMP is a powerful formalism, it provides limited information.
+DA  - 2016/11/01/
+PY  - 2016
+DO  - 10.1016/j.jlp.2016.09.007
+DP  - ScienceDirect
+VL  - 44
+SP  - 193
+EP  - 203
+J2  - Journal of Loss Prevention in the Process Industries
+LA  - en
+SN  - 0950-4230
+UR  - https://www.sciencedirect.com/science/article/pii/S0950423016302480
+Y2  - 2021/11/04/21:04:55
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0950423016302480
+KW  - Monte Carlo simulation
+KW  - Fault tree
+KW  - Multi-phase Markov model
+KW  - Safety analysis
+KW  - Stochastic Petri nets
+ER  - 
+
+TY  - JOUR
+TI  - Reliability and safety analysis using fault tree and Bayesian networks
+T2  - International Journal of Computer Aided Engineering and Technology
+AB  - Fault tree analysis (FTA) is one of the most prominent techniques used in risk analysis, this method aimed to identify how component failures lead to system failure using logical gates (i.e. AND, OR gates). However, some limitations appear on FTA due to its static structure. Bayesian networks (BNs) have become a popular technique used in reliability analysis; it represents a set of random variables and their conditional dependencies. This paper discusses the advantages of Bayesian networks over fault tree in reliability and safety analysis. Also, it shows the ability of BN to update probabilities, to represent multi-state variables, dependent failures, and common cause failure. An example taken from the literature is used to illustrate the application and compare the results of both fault tree and bayesian networks techniques.
+DP  - www-inderscienceonline-com.proxy.lib.umich.edu
+LA  - en
+UR  - http://www.inderscienceonline.com/doi/abs/10.1504/IJCAET.2019.096720
+Y2  - 2021/11/04/21:04:07
+L2  - http://www.inderscienceonline.com/doi/pdf/10.1504/IJCAET.2019.096720
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic reliability analysis framework using fault tree and Dynamic Bayesian Network: A case study of NPP
+AU  - Mamdikar, Mohan Rao
+AU  - Kumar, Vinay
+AU  - Singh, Pooja
+T2  - Nuclear Engineering and Technology
+AB  - The Emergency Diesel Generator (EDG) is a critical and essential part of the Nuclear Power Plant (NPP). Due to past catastrophic disasters, critical systems of NPP like EDG are designed to meet high dependability requirements. Therefore, we propose a framework for the dynamic reliability assessment using the Fault Tree and the Dynamic Bayesian Network. In this framework, the information of the component's failure probability is updated based on observed data. The framework is powerful to perform qualitative as well as quantitative analysis of the system. The validity of the framework is done by applying it on several NPP systems.
+DA  - 2021/10/01/
+PY  - 2021
+DO  - 10.1016/j.net.2021.09.038
+DP  - ScienceDirect
+J2  - Nuclear Engineering and Technology
+LA  - en
+SN  - 1738-5733
+ST  - Dynamic reliability analysis framework using fault tree and Dynamic Bayesian Network
+UR  - https://www.sciencedirect.com/science/article/pii/S1738573321005787
+Y2  - 2021/11/04/21:02:44
+KW  - Fault tree
+KW  - Dynamic bayesian network
+KW  - Nuclear power plant
+ER  - 
+
+TY  - ELEC
+TI  - NPR 8621.1C NASA Procedural Requirements for Mishap and Close Call Reporting, Investigating, and Recordkeeping
+UR  - https://nodis3.gsfc.nasa.gov/displayAll.cfm?Internal_ID=N_PR_8621_001C_&page_name=all
+Y2  - 2021/11/03/19:34:49
+L2  - https://nodis3.gsfc.nasa.gov/displayAll.cfm?Internal_ID=N_PR_8621_001C_&page_name=all
+ER  - 
+
+TY  - CONF
+TI  - A Prognostic Launch Vehicle Probability of Failure Assessment Methodology for Conceptual Systems Predicated on Human Causal Factors
+AU  - Williams, Craig H.
+AU  - Ross, Lawrence J.
+AU  - Nieberding, J. Joe
+T2  - 2018 AIAA SPACE and Astronautics Forum and Exposition
+C1  - Orlando, FL
+C3  - 2018 AIAA SPACE and Astronautics Forum and Exposition
+DA  - 2018/09/17/
+PY  - 2018
+DO  - 10.2514/6.2018-5413
+DP  - DOI.org (Crossref)
+LA  - en
+PB  - American Institute of Aeronautics and Astronautics
+SN  - 978-1-62410-575-3
+UR  - https://arc.aiaa.org/doi/10.2514/6.2018-5413
+Y2  - 2021/11/03/19:33:00
+L1  - https://ntrs.nasa.gov/api/citations/20180007315/downloads/20180007315.pdf
+ER  - 
+
+TY  - ELEC
+TI  - Bayesian logistic regression with PyMC3
+AU  - Nguyen, Tung T.
+T2  - Medium
+AB  - An introduction to Bayesian logistic regression with a real-world example
+DA  - 2020/09/02/T21:30:21.889Z
+PY  - 2020
+LA  - en
+UR  - https://towardsdatascience.com/bayesian-logistic-regression-with-pymc3-8e17c576f31a
+Y2  - 2021/10/31/23:42:24
+ER  - 
+
+TY  - ELEC
+TI  - Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades Part 1
+AU  - Koehrsen, Will
+T2  - Medium
+AB  - Exploratory Data Analysis, Feature Selection, and Benchmarks
+DA  - 2018/04/25/T15:42:47.795Z
+PY  - 2018
+LA  - en
+ST  - Bayesian Linear Regression in Python
+UR  - https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-1-7d0ad817fca5
+Y2  - 2021/10/31/14:36:15
+L2  - https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-1-7d0ad817fca5
+ER  - 
+
+TY  - ELEC
+TI  - Bayesian Linear Regression in Python: Using Machine Learning to Predict Student Grades Part 2
+AU  - Koehrsen, Will
+T2  - Medium
+AB  - Implementing a Model, Interpreting Results, and Making Predictions
+DA  - 2018/04/21/T23:23:09.966Z
+PY  - 2018
+LA  - en
+ST  - Bayesian Linear Regression in Python
+UR  - https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e
+Y2  - 2021/10/31/13:56:57
+L2  - https://towardsdatascience.com/bayesian-linear-regression-in-python-using-machine-learning-to-predict-student-grades-part-2-b72059a8ac7e
+ER  - 
+
+TY  - ELEC
+TI  - ChristianHerta
+UR  - http://christianherta.de/lehre/dataScience/bayesian/introduction_into_bayesian_inference_with_pymc.slides.php
+Y2  - 2021/10/31/13:27:53
+L2  - http://christianherta.de/lehre/dataScience/bayesian/introduction_into_bayesian_inference_with_pymc.slides.php
+ER  - 
+
+TY  - ELEC
+TI  - Bayesian Statistics of Efficacy of Pfizer-BioNTech COVID-19 Vaccine — part I
+AU  - Skorulski, Bartek
+T2  - Medium
+AB  - Vaccine Efficacy and Beta-binomial model
+DA  - 2021/04/17/T07:33:50.330Z
+PY  - 2021
+LA  - en
+UR  - https://towardsdatascience.com/bayesian-statistics-of-efficacy-of-pfizer-biontech-covid-19-vaccine-part-i-efac8d4e0539
+Y2  - 2021/10/31/13:20:53
+L2  - https://towardsdatascience.com/bayesian-statistics-of-efficacy-of-pfizer-biontech-covid-19-vaccine-part-i-efac8d4e0539
+ER  - 
+
+TY  - CHAP
+TI  - Bayesian Versus Frequentist Inference
+AU  - Wagenmakers, Eric-Jan
+AU  - Lee, Michael
+AU  - Lodewyckx, Tom
+AU  - Iverson, Geoffrey J.
+T2  - Bayesian Evaluation of Informative Hypotheses
+A2  - Hoijtink, Herbert
+A2  - Klugkist, Irene
+A2  - Boelen, Paul A.
+CY  - New York, NY
+DA  - 2008///
+PY  - 2008
+DP  - DOI.org (Crossref)
+SP  - 181
+EP  - 207
+LA  - en
+PB  - Springer New York
+SN  - 978-0-387-09611-7 978-0-387-09612-4
+UR  - http://link.springer.com/10.1007/978-0-387-09612-4_9
+Y2  - 2021/11/05/16:43:13
+ER  - 
+
+TY  - JOUR
+TI  - Understanding and interpreting confidence and credible intervals around effect estimates
+AU  - Hespanhol, Luiz
+AU  - Vallio, Caio Sain
+AU  - Costa, Lucíola Menezes
+AU  - Saragiotto, Bruno T
+T2  - Brazilian Journal of Physical Therapy
+AB  - •
+              Confidence intervals (CI) measure the uncertainty around effect estimates.
+            
+            
+              •
+              Frequentist 95% CI: we can be 95% confident that the true estimate would lie within the interval.
+            
+            
+              •
+              Bayesian 95% CI: there is a 95% probability that the true estimate would lie within the interval.
+            
+            
+              •
+              Decision-making should not be made considering only the dichotomized interpretation of CIs.
+            
+            
+              •
+              Training and education may enhance knowledge related to understanding and interpreting CIs.
+DA  - 2019///
+PY  - 2019
+DO  - 10.1016/j.bjpt.2018.12.006
+DP  - PubMed Central
+VL  - 23
+IS  - 4
+SP  - 290
+EP  - 301
+J2  - Braz J Phys Ther
+SN  - 1413-3555
+UR  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6630113/
+Y2  - 2021/11/05/18:52:49
+L1  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6630113/pdf/main.pdf
+L2  - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6630113/
+ER  - 
+
+TY  - BOOK
+TI  - Bayesian inference in statistical analysis
+AU  - Box, George E. P.
+AU  - Tiao, George C.
+T2  - Wiley classics library
+CN  - 519.54
+CY  - New York Chichester Brisbane [etc]
+DA  - 1992///
+PY  - 1992
+DP  - BnF ISBN
+LA  - eng
+PB  - J. Wiley and sons
+SN  - 978-0-471-57428-6
+ER  - 
+
+TY  - GEN
+TI  - ARP4754A: Guidelines for Development of Civil Aircraft and Systems
+AB  - Scope
+This document discusses the development of aircraft systems taking into account the overall aircraft operating environment and functions. This includes validation of requirements and verification of the design implementation for certification and product assurance. It provides practices for showing compliance with the regulations and serves to assist a company in developing and meeting its own internal standards by considering the guidelines herein.
+The guidelines in this document were developed in the context of Title 14 Code of Federal Regulations (14CFR) Part 25 and European Aviation Safety Agency (EASA) Certification Specification (CS) CS-25. It may be applicable to other regulations, such as Parts 23, 27, 29, 33, and 35 (CS-23, CS-27, CS-29, CS-E, CS-P).
+This document addresses the development cycle for aircraft and systems that implement aircraft functions. It does not include specific coverage of detailed software or electronic hardware development, safety assessment processes, in-service safety activities, aircraft structural development nor does it address the development of the Master Minimum Equipment List (MMEL) or Configuration Deviation List (CDL). More detailed coverage of the software aspects of development are found in RTCA document DO-178B, “Software Considerations in Airborne Systems and Equipment Certification” and its EUROCAE counterpart, ED-12B. Coverage of electronic hardware aspects of development are found in RTCA document DO-254/EUROCAE ED-80, “Design Assurance Guidance for Airborne Electronic Hardware”. Design guidance and certification considerations for integrated modular avionics are found in appropriate RTCA/EUROCAE document DO-297/ED-124. Methodologies for safety assessment processes are outlined in SAE document ARP4761, “Guidelines and Methods for Conducting the Safety Assessment Process on Civil Airborne Systems and Equipment”. Details for in-service safety assessment are found in ARP5150, “Safety Assessment of Transport Airplanes In Commercial Service” and ARP5151 Safety Assessment of General Aviation Airplanes and Rotorcraft In Commercial Service.“ Post-certification activities (modification to a certificated product) are covered in section 6 of this document. The regulations and processes used to develop and approve the MMEL vary throughout the world. Guidance for the development of the MMEL should be sought from the local airworthiness authority.
+Figure 1 outlines the relationships between the various development documents, which provide guidelines for safety assessment, electronic hardware and software life-cycle processes and the system development process described herein.
+Rationale
+This document provides updated and expanded guidelines for the processes used to develop civil aircraft and systems.
+DA  - 2010/12//
+PY  - 2010
+LA  - English
+PB  - Society of Automotive Engineers (SAE)
+ER  - 
+
+TY  - BOOK
+TI  - Hands-On Data Visualization
+AU  - Dougherty, Jack
+AU  - Ilyankou, Ilya
+AB  - Tell your story and show it with data, using free and easy-to-learn tools on the web. This introductory book teaches you how to design interactive charts and customized maps for your website, beginning with easy drag-and-drop tools, such as Google Sheets, Datawrapper, and Tableau Public. You will also gradually learn how to edit open-source code templates built with Chart.js, Highcharts, and Leaflet on GitHub. Follow along with the step-by-step tutorials, real-world examples, and online resources. This book is ideal for students, non-profit organizations, small business owners, local governments, journalists, academics, or anyone who wants to tell their story and show the data. No coding experience is required.
+DP  - handsondataviz.org
+LA  - en
+UR  - http://handsondataviz.github.io/
+Y2  - 2021/11/15/16:52:30
+L2  - https://handsondataviz.org/
+ER  - 
+
+TY  - JOUR
+TI  - VIA ELECTRONIC FILING
+AU  - Dortch, Marlene H
+DP  - Zotero
+SP  - 18
+LA  - en
+L1  - https://ecfsapi.fcc.gov/file/10126227049043/OET%20Ex%20Parte%20210122%20Final.pdf
+ER  - 
+
+TY  - BOOK
+TI  - Fundamentals of Data Visualization
+AU  - Wilke, Claus O.
+AB  - A guide to making visualizations that accurately reflect the data, tell a story, and look professional.
+DP  - clauswilke.com
+UR  - https://clauswilke.com/dataviz/
+Y2  - 2021/11/15/17:15:10
+L2  - https://clauswilke.com/dataviz/
+ER  - 
+
+TY  - ELEC
+TI  - Legislation & Policies, Regulations & Guidance
+LA  - en-us
+M3  - template
+UR  - https://www.faa.gov/space/legislation_regulation_guidance/
+Y2  - 2021/11/15/17:34:42
+L2  - https://www.faa.gov/space/legislation_regulation_guidance/
+KW  - Regulations
+ER  - 
+
+TY  - BOOK
+TI  - International Space Law: United Nations Instruments
+AU  - United Nations Office for Outer Space Affairs
+DA  - 2018/01/19/
+PY  - 2018
+DP  - DOI.org (Crossref)
+LA  - en
+PB  - UN
+SN  - 978-92-1-363092-1
+ST  - International Space Law
+UR  - https://www.un-ilibrary.org/content/books/9789213630921
+Y2  - 2021/11/15/17:39:46
+L1  - http://www.unoosa.org/res/oosadoc/data/documents/2017/stspace/stspace61rev_2_0_html/V1605998-ENGLISH.pdf
+KW  - Regulations
+ER  - 
+
+TY  - BLOG
+TI  - Space Law History 101 - Understanding the origins of Space Law
+AU  - Matignon, Louis de Gouyon
+T2  - Space Legal Issues
+AB  - This new Space Law article on Space Legal Issues is a Space Law History 101. With the launch of Sputnik 1 on October 4, 1957, Space Law was born.
+DA  - 2019/07/09/T08:52:19+00:00
+PY  - 2019
+LA  - en-US
+UR  - https://www.spacelegalissues.com/space-law-history-101/
+Y2  - 2021/11/15/17:41:31
+L2  - https://www.spacelegalissues.com/space-law-history-101/
+KW  - History
+KW  - Regulations
+ER  - 
+
+TY  - ELEC
+TI  - A History of Space
+UR  - https://www.unoosa.org/oosa/en/timeline/index.html
+Y2  - 2021/11/15/17:42:08
+KW  - History
+KW  - Regulations
+ER  - 
+
+TY  - JOUR
+TI  - THE ORIGIN AND PRACTICE OF U.S. COMMERCIAL HUMAN SPACE FLIGHT REGULATIONS
+AU  - Owens, D Brooke
+AU  - Sloan, John
+AB  - The commercial human space flight regulatory regime in the United States is the result of deliberate reasoned policy choices by the federal government. The regulations and the legislation that spawns them are the outgrowth of American air and space flight history. They are also the result of the government's belief that private enterprise has the acumen, will, and technical ability to make commercial human space flight a successful independent business. This paper illustrates the pioneering evolution of the commercial human space flight regulatory regime in the United States and highlights the Federal Aviation Administration’s current role in the commercial space transportation industry. The commercial space industry is young, as are its regulatory overseers, and evolutions in technology and operations will occur. The FAA will track those developments and make course corrections as necessary, ever mindful of the capabilities and limitations of the industry, while still fulfilling its Congressional mandates.
+DP  - Zotero
+SP  - 12
+LA  - en
+L1  - https://www.faa.gov/space/additional_information/international_affairs/media/THE_ORIGIN_AND_PRACTICE_OF_U.S._COMMERCIAL_HUMAN_SPACE_FLIGHT_REGULATIONS_IAC_Glasgow_Oct_2008.pdf
+KW  - History
+KW  - Regulations
+ER  - 
+
+TY  - BLOG
+TI  - Space Law
+AB  - Posted: May 22, 2017 5:33 pm ET | Last Updated: November 6, 2021 8:45 am ET | Domestic Space Law International Space Law Synopsis of the Five U.N. Space Treaties For More Information Domestic Space Law U.S. space law is codified in several laws beginning with the 1958 National Aeronautics and Space Act (NASA Act), signed into law
+LA  - en-US
+UR  - https://spacepolicyonline.com/topics/space-law/
+Y2  - 2021/11/15/17:50:40
+L2  - https://spacepolicyonline.com/topics/space-law/
+KW  - History
+KW  - Regulations
+ER  - 
+
+TY  - RPRT
+TI  - The International Institute of Space Law: Six Decades of Space Law and its Development(s) (1960 - 2020)
+A2  - Hobe, Stephan
+DA  - 2020///
+PY  - 2020
+SP  - 165
+LA  - English
+PB  - International Institute of Space Law
+UR  - https://iislweb.space/wp-content/uploads/2021/02/2020_IISL_Anniversary_Booklet_The_IISL_at_60.pdf
+Y2  - 2021/11/15/17:53:14
+L1  - https://iislweb.space/wp-content/uploads/2021/02/2020_IISL_Anniversary_Booklet_The_IISL_at_60.pdf
+ER  - 
+
+TY  - ELEC
+TI  - Current Space Act Agreements
+AU  - Harbaugh, Jennifer
+T2  - NASA
+AB  - NASA.gov brings you the latest images, videos and news from America's space agency. Get the latest updates on NASA missions, watch NASA TV live, and learn about our quest to reveal the unknown and benefit all humankind.
+DA  - 2015/10/02/T15:10-04:00
+PY  - 2015
+LA  - und
+M3  - Text
+UR  - http://www.nasa.gov/partnerships/about.html
+Y2  - 2021/11/15/18:02:53
+L2  - https://www.nasa.gov/partnerships/about.html
+ER  - 
+
+TY  - ELEC
+TI  - Subject: Risk Classification for NASA Payloads - NPR 8705.4A
+AB  - This directive defines (1) the criteria for Mission Directorates to define the risk tolerance classes for NASA missions and instruments, and (2) the corresponding Agency-level assurance expectations that drive design and analysis, test philosophy, and common assurance practices.
+UR  - https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_8705_004A_&page_name=main
+Y2  - 2021/11/15/18:08:53
+L2  - https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_8705_004A_&page_name=main
+ER  - 
+
+TY  - ELEC
+TI  - NASA General Safety Program Requirements (Updated w/Change 3) - NPR 8715.3D
+AB  - The purpose of this directive is to assure mission success. This directive defines NASA roles and responsibilities for assuring safety and mission success of NASA missions, and describes processes and evidence necessary to provide that assurance. NASA roles, responsibilities, and processes for protecting the public, workforce, and non-mission assets from NASA activities are defined in NPR 8715.1, NASA Safety and Health Programs.
+UR  - https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_8715_003D_
+Y2  - 2021/11/15/18:10:15
+L2  - https://nodis3.gsfc.nasa.gov/displayDir.cfm?Internal_ID=N_PR_8715_003D_
+ER  - 
+
+TY  - ELEC
+TI  - NPR 8715.3C NASA General Safety Program Requirements (w/Change 9 dated 2/08/13)
+UR  - https://nodis3.gsfc.nasa.gov/displayAll.cfm?Internal_ID=N_PR_8715_003C_&page_name=ALL
+Y2  - 2021/11/15/18:17:08
+L2  - https://nodis3.gsfc.nasa.gov/displayAll.cfm?Internal_ID=N_PR_8715_003C_&page_name=ALL
+ER  - 
+
+TY  - BOOK
+TI  - NASA System Safety Handbook, Volume 1: System Safety Framework and Concepts for Implementation
+AU  - Dezfuli, Homayoon
+AU  - Benjamin, Allan
+AU  - Everett, Chistopher
+AU  - Smith, Curtis
+AU  - Stamatelatos, Michael
+AU  - Youngblood, Robert
+AB  - Volume 1 of the NASA System Safety Handbook presents a system safety framework that provides a coherent structure for organizing system safety activities towards the achievement and demonstration of safety throughout the system life cycle. Within the framework, system safety activities are organized around the accomplishment of clearly stated safety objectives that collectively define adequate safety for the system, and are communicated to decision makers via the risk-informed safety case (RISC), which provides a compelling, comprehensible and valid argument, supported by evidence, that the system is or will be adequately safe for a given application in a given environment.
+DA  - 2011/11/30/
+PY  - 2011
+DP  - ResearchGate
+ST  - NASA System Safety Handbook, Volume 1
+L1  - https://www.researchgate.net/profile/Homayoon-Dezfuli/publication/283642057_NASA_System_Safety_Handbook_Volume_1_System_Safety_Framework_and_Concepts_for_Implementation/links/5642045808aec448fa6215d8/NASA-System-Safety-Handbook-Volume-1-System-Safety-Framework-and-Concepts-for-Implementation.pdf
+L4  - https://www.researchgate.net/publication/283642057_NASA_System_Safety_Handbook_Volume_1_System_Safety_Framework_and_Concepts_for_Implementation
+ER  - 
+
+TY  - BOOK
+TI  - NASA System Safety Handbook Volume 2: System Safety Concepts, Guidelines, and Implementation Examples
+AU  - Dezfuli, Homayoon
+AU  - Benjamin, Allan
+AU  - Everett, Chistopher
+AU  - Feather, Martin
+AU  - Rutledge, Peter
+AU  - Sen, Dev
+AU  - Youngblood, Robert
+AB  - This is the second of two volumes that collectively comprise the NASA System Safety Handbook. Volume 1 (NASA/SP-210-580) was prepared for the purpose of presenting the overall framework for System Safety and for providing the general concepts needed to implement the framework. Volume 2 provides guidance for implementing these concepts as an integral part of systems engineering and risk management. This guidance addresses the following functional areas:
+1. The development of objectives that collectively define adequate safety for a system, and the safety requirements derived from these objectives that are levied on the system
+2. The conduct of system safety activities, performed to meet the safety requirements, with specific emphasis on the conduct of integrated safety analysis (ISA) as a fundamental means by which systems engineering and risk management decisions are risk-informed
+3. The development of a risk-informed safety case (RISC) at major milestone reviews to argue that the system’s safety objectives are satisfied (and therefore that the system is adequately safe)
+4. The evaluation of the RISC (including supporting evidence) using a defined set of evaluation criteria, to assess the veracity of the claims made therein in order to support risk acceptance decisions
+DA  - 2014/11/01/
+PY  - 2014
+DP  - ResearchGate
+ST  - NASA System Safety Handbook Volume 2
+L1  - https://www.researchgate.net/profile/Homayoon-Dezfuli/publication/287645897_NASA_System_Safety_Handbook_Volume_2_System_Safety_Concepts_Guidelines_and_Implementation_Examples/links/56785d8e08ae0ad265c82d68/NASA-System-Safety-Handbook-Volume-2-System-Safety-Concepts-Guidelines-and-Implementation-Examples.pdf
+L4  - https://www.researchgate.net/publication/287645897_NASA_System_Safety_Handbook_Volume_2_System_Safety_Concepts_Guidelines_and_Implementation_Examples
+ER  - 
+
+TY  - ELEC
+TI  - A Step-by-Step Guide in detecting causal relationships using Bayesian Structure Learning in Python.
+AU  - Taskesen, Erdogan
+T2  - Medium
+AB  - The starters guide to effectively determine causality across variables.
+DA  - 2021/09/14/T17:16:46.010Z
+PY  - 2021
+LA  - en
+UR  - https://towardsdatascience.com/a-step-by-step-guide-in-detecting-causal-relationships-using-bayesian-structure-learning-in-python-c20c6b31cee5
+Y2  - 2021/11/16/01:21:22
+L2  - https://towardsdatascience.com/a-step-by-step-guide-in-detecting-causal-relationships-using-bayesian-structure-learning-in-python-c20c6b31cee5
+ER  - 
+
+TY  - COMP
+TI  - bnlearn: Python package for learning the graphical structure of Bayesian networks, parameter learning, inference and sampling methods.
+AU  - Taskesen, Erdogan
+DP  - PyPI
+ET  - 0.4.5
+LA  - Python
+M1  - OS Independent
+ST  - bnlearn
+UR  - https://github.com/erdogant/bnlearn
+Y2  - 2021/11/16/02:29:40
+L2  - https://pypi.org/project/bnlearn/
+ER  - 
+
+TY  - ELEC
+TI  - nsethtyler/ISD503_bayes_launch_veh
+T2  - GitHub
+AB  - A repository to maintain the latest working copy of my ISD503 work regarding Bayesian analysis/prediction of future space vehicle launch success based upon prior experiences - nsethtyler/ISD503_bay...
+LA  - en
+UR  - https://github.com/nsethtyler/ISD503_bayes_launch_veh
+Y2  - 2021/11/16/02:43:08
+L2  - https://github.com/nsethtyler/ISD503_bayes_launch_veh
+ER  - 
+
+TY  - COMP
+TI  - bnlearn - Library for Bayesian network learning and inference
+AU  - Taskesen, Erdogan
+AB  - Python package for learning the graphical structure of Bayesian networks, parameter learning, inference and sampling methods.
+DA  - 2020/01//
+PY  - 2020
+DP  - GitHub
+ET  - 0.3.22
+LA  - Jupyter Notebook
+UR  - https://github.com/erdogant/bnlearn
+Y2  - 2021/11/16/03:09:48
+ER  - 
+
+TY  - BOOK
+TI  - Learning probabilistic graphical models in R: familiarize yourself with probabilistic graphical models through real-world problems and illustrative code examples in R
+AU  - Bellot, David
+CY  - Birmingham Mumbai
+DA  - 2016///
+PY  - 2016
+DP  - K10plus ISBN
+SP  - 232
+LA  - eng
+SN  - 978-1-78439-205-5
+ST  - Learning probabilistic graphical models in R
+ER  - 
+
+TY  - BOOK
+TI  - Bayesian networks in R: with applications in systems biology
+AU  - Nagarajan, Radhakrishnan
+AU  - Scutari, Marco
+AU  - Lè̀bre, Sophie
+T2  - Use R!
+CN  - QA279.5 .N34 2013
+CY  - New York
+DA  - 2013///
+PY  - 2013
+DP  - Library of Congress ISBN
+SP  - 157
+PB  - Springer
+SN  - 978-1-4614-6445-7
+ST  - Bayesian networks in R
+KW  - Bayesian statistical decision theory
+KW  - Statistical methods
+KW  - R (Computer program language)
+KW  - Systems biology
+ER  - 
+
+TY  - JOUR
+TI  - Quantitative Analysis of Dynamic Fault Trees by means of Monte Carlo Simulations: Event-Driven Simulation Approach
+AU  - Gascard, Eric
+AU  - Simeu-Abazi, Zineb
+T2  - Reliability Engineering & System Safety
+AB  - The reliability analysis of complex and dynamic systems is often achieved by a quantitative analysis of dynamic fault trees (DFT), which model the system failure, i.e. a specific undesired event called top event, in terms of failures of the components of the system. Indeed, DFT takes into account the sequential relationships among events and their statistical dependencies. Given the failure probability of the components, the quantitative analysis aims at numerically evaluating, among other things, the failure probability of the top event. In this paper, we are interested in the Monte Carlo simulation which can consider any kind of failure distribution and is not limited in the DFT representation: it considers DFT with repeated events and shared events, takes into account all dynamic gates (PAND, SEQ, FDEP, and SPARE). However, Monte Carlo simulation encounters some disadvantages: an entirely new simulation must be executed every time a parameter changes and it may be time-consuming when the desired accuracy is high. To address these difficulties, this paper proposes a new dynamic fault tree simulation performed by an event-driven simulator. With this approach, gate simulations that produce no change in the output of a gate are eliminated augmenting the speed up of the simulation. The implementation of our approach uses an event queue data structure and an event-scheduler as alternative to the usual time-driven implementation which is characterized by an iterative loop. Thus, periods of inactivity are omitted. As results, computational efficiency is obtained and the speed-up performance of the Monte Carlo simulation program is improved.
+DA  - 2018/12/01/
+PY  - 2018
+DO  - 10.1016/j.ress.2018.07.011
+DP  - ScienceDirect
+VL  - 180
+SP  - 487
+EP  - 504
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 0951-8320
+ST  - Quantitative Analysis of Dynamic Fault Trees by means of Monte Carlo Simulations
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832018300504
+Y2  - 2021/11/18/13:48:13
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0951832018300504?dgcid=raven_sd_recommender_email
+KW  - Monte Carlo simulation
+KW  - Dynamic fault tree
+KW  - Event-driven simulation
+KW  - Quantitative analysis
+ER  - 
+
+TY  - CHAP
+TI  - Chapter 2 - An Introduction to Rare Event Simulation and Importance Sampling
+AU  - Biondini, Gino
+T2  - Handbook of Statistics
+A2  - Govindaraju, Venu
+A2  - Raghavan, Vijay V.
+A2  - Rao, C. R.
+T3  - Big Data Analytics
+AB  - This chapter provides a relatively low-level introduction to the problem of rare event simulation with Monte Carlo methods and to a class of methods known as variance reduction techniques that have been devised to deal with this problem. Special emphasis is given to importance sampling, but several other techniques are also presented, including the cross-entropy method, rejection sampling, and Markov chain Monte Carlo methods such as the Metropolis method and Gibbs sampling. A brief discussion is also given about asymptotic efficiency and the connections with large deviations theory.
+DA  - 2015/01/01/
+PY  - 2015
+DP  - ScienceDirect
+VL  - 33
+SP  - 29
+EP  - 68
+LA  - en
+PB  - Elsevier
+UR  - https://www.sciencedirect.com/science/article/pii/B9780444634924000022
+Y2  - 2021/11/18/13:47:54
+L2  - https://www.sciencedirect.com/science/article/abs/pii/B9780444634924000022?dgcid=raven_sd_recommender_email
+KW  - Importance sampling
+KW  - Rare event simulation
+KW  - Monte Carlo methods
+KW  - 65B99
+KW  - Cross-entropy 2000  65C05
+KW  - Variance reduction techniques
+ER  - 
+
+TY  - JOUR
+TI  - Safety analysis for vehicle guidance systems with dynamic fault trees
+AU  - Ghadhab, Majdi
+AU  - Junges, Sebastian
+AU  - Katoen, Joost-Pieter
+AU  - Kuntz, Matthias
+AU  - Volk, Matthias
+T2  - Reliability Engineering & System Safety
+AB  - This paper considers the design-phase safety analysis of vehicle guidance systems. The proposed approach constructs dynamic fault trees (DFTs) to model a variety of safety concepts and E/E architectures for drive automation. The fault trees can be used to evaluate various quantitative measures by means of model checking. The approach is accompanied by a large-scale evaluation: The resulting DFTs with up to 300 elements constitute larger-than-before DFTs, yet the concepts and architectures can be evaluated in a matter of minutes.
+DA  - 2019/06/01/
+PY  - 2019
+DO  - 10.1016/j.ress.2019.02.005
+DP  - ScienceDirect
+VL  - 186
+SP  - 37
+EP  - 50
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 0951-8320
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832018304770
+Y2  - 2021/11/18/13:47:08
+L1  - https://arxiv.org/pdf/1903.05361
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0951832018304770?dgcid=raven_sd_recommender_email
+KW  - Dynamic fault trees
+KW  - Hardware partitioning
+KW  - Model checking
+ER  - 
+
+TY  - JOUR
+TI  - Fault tree analysis: A survey of the state-of-the-art in modeling, analysis and tools
+AU  - Ruijters, Enno
+AU  - Stoelinga, Mariëlle
+T2  - Computer Science Review
+AB  - Fault tree analysis (FTA) is a very prominent method to analyze the risks related to safety and economically critical assets, like power plants, airplanes, data centers and web shops. FTA methods comprise of a wide variety of modeling and analysis techniques, supported by a wide range of software tools. This paper surveys over 150 papers on fault tree analysis, providing an in-depth overview of the state-of-the-art in FTA. Concretely, we review standard fault trees, as well as extensions such as dynamic FT, repairable FT, and extended FT. For these models, we review both qualitative analysis methods, like cut sets and common cause failures, and quantitative techniques, including a wide variety of stochastic methods to compute failure probabilities. Numerous examples illustrate the various approaches, and tables present a quick overview of results.
+DA  - 2015/02/01/
+PY  - 2015
+DO  - 10.1016/j.cosrev.2015.03.001
+DP  - ScienceDirect
+VL  - 15-16
+SP  - 29
+EP  - 62
+J2  - Computer Science Review
+LA  - en
+SN  - 1574-0137
+ST  - Fault tree analysis
+UR  - https://www.sciencedirect.com/science/article/pii/S1574013715000027
+Y2  - 2021/11/18/13:46:49
+L1  - https://ris.utwente.nl/ws/files/13291952/FTA_overview.pdf
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S1574013715000027?dgcid=raven_sd_recommender_email
+KW  - Reliability
+KW  - Fault trees
+KW  - Dependability evaluation
+KW  - Dynamic Fault Trees
+KW  - Graphical models
+KW  - Risk analysis
+ER  - 
+
+TY  - JOUR
+TI  - Systems thinking: A review of sustainability management research
+AU  - Williams, Amanda
+AU  - Kennedy, Steve
+AU  - Philipp, Felix
+AU  - Whiteman, Gail
+T2  - Journal of Cleaner Production
+AB  - Scholars from a wide range of disciplines and perspectives have sought to unravel the high complexities of sustainability. A mature understanding of sustainability management requires studies to adopt a multidisciplinary systemic lens capable of appreciating the interconnectivity of economic, political, social and ecological issues across temporal and spatial dimensions. Yet the field of systems thinking in the context of sustainability management research is disparate and can benefit from a comprehensive review in order to assimilate the current fragmented body of research and to identify promising research directions. To address this gap, we conducted a review of the systems thinking and sustainability management literature from 1990 up to 2015 including 96 articles. In this review, we first present descriptives that show an emerging body of work rapidly growing since 2011. We found that 54 percent of articles were published in two transdisciplinary journals, demonstrating that a systemic approach is not yet prevalent in mainstream management journals. Second, we identify and describe the core theoretical concepts of systems thinking found in the literature including interconnections, feedbacks, adaptive capacity, emergence and self-organization. Third, findings show a number of research themes, including behavioral change, leadership, innovation, industrial ecology, social-ecological systems, transitions management, paradigm shifts and sustainability education. Finally we offer a cross-scale integrated framework of our findings, and conclude by identifying a number of promising research opportunities.
+DA  - 2017/04/01/
+PY  - 2017
+DO  - 10.1016/j.jclepro.2017.02.002
+DP  - ScienceDirect
+VL  - 148
+SP  - 866
+EP  - 881
+J2  - Journal of Cleaner Production
+LA  - en
+SN  - 0959-6526
+ST  - Systems thinking
+UR  - https://www.sciencedirect.com/science/article/pii/S0959652617302068
+Y2  - 2021/11/18/13:46:34
+L1  - https://eprints.lancs.ac.uk/id/eprint/84581/1/1_s2.0_S0959652617302068_main.pdf
+L2  - https://www.sciencedirect.com/science/article/abs/pii/S0959652617302068?dgcid=raven_sd_recommender_email
+KW  - Systems thinking
+KW  - Literature review
+KW  - Multi-level
+KW  - Sustainability management
+ER  - 
+
+TY  - JOUR
+TI  - Guided simulation for dynamic probabilistic risk assessment of complex systems: Concept, method, and application
+AU  - Hu, Yunwei
+AU  - Parhizkar, Tarannom
+AU  - Mosleh, Ali
+T2  - Reliability Engineering & System Safety
+AB  - Probabilistic risk assessment (PRA) is a systematic process of examining how engineered systems work to ensure safety. With the growth of the size of dynamic systems and the complexity of the interactions between hardware, software, and humans, it is extremely difficult to enumerate risky scenarios by the traditional PRA methods. In this study, a new dynamic probabilistic risk assessment methodology is proposed that employs a new exploration strategy to generate risky scenarios. The proposed methodology consists of three main modules, including simulation, planner, and scheduler. In this methodology, the engineering knowledge of the system is explicitly used to guide the simulation module to achieve higher efficiency and accuracy. The engineering knowledge is reflected in the planner module which is responsible for generating plans as a high-level map to guide the simulation. The scheduler module is responsible for guiding the simulation by controlling the timing and occurrence of the random events. In this paper, modules of the proposed methodology, and their interactions are explained in detail. The developed methodology is used to perform risk assessment of a Space Shuttle ascent phase, and results show the effectiveness of the proposed platform.
+DA  - 2022/01/01/
+PY  - 2022
+DO  - 10.1016/j.ress.2021.108047
+DP  - ScienceDirect
+VL  - 217
+SP  - 108047
+J2  - Reliability Engineering & System Safety
+LA  - en
+SN  - 0951-8320
+ST  - Guided simulation for dynamic probabilistic risk assessment of complex systems
+UR  - https://www.sciencedirect.com/science/article/pii/S0951832021005512
+Y2  - 2021/11/18/13:28:58
+KW  - Space Shuttle
+KW  - Complex system
+KW  - Dynamic probabilistic risk assessment
+KW  - Guided simulation
+KW  - Hardware, software, and humans’ interactions
+ER  - 
+
+TY  - ELEC
+TI  - Linkedin - API Terms of Use
+DA  - 2019/03/25/
+PY  - 2019
+LA  - en
+UR  - https://legal.linkedin.com/api-terms-of-use
+Y2  - 2021/11/18/14:51:59
+L2  - https://legal.linkedin.com/api-terms-of-use
+ER  - 
+
+TY  - ELEC
+TI  - pgmpy 0.1.15 documentation
+AU  - Ankan, Ankur
+UR  - https://pgmpy.org/
+Y2  - 2021/11/20/22:12:16
+L2  - https://pgmpy.org/
+ER  - 
+
+TY  - ELEC
+TI  - pomegranate 0.14.6 documentation
+AU  - Schreiber, Jacob
+UR  - https://pomegranate.readthedocs.io/en/latest/
+Y2  - 2021/11/20/22:14:29
+L2  - https://pomegranate.readthedocs.io/en/latest/
+ER  - 
+
+TY  - JOUR
+TI  - Probabilistic programming in Python using PyMC3
+AU  - Salvatier, John
+AU  - Wiecki, Thomas V.
+AU  - Fonnesbeck, Christopher
+T2  - PeerJ Computer Science
+AB  - Probabilistic programming allows for automatic Bayesian inference on user-defined probabilistic models. Recent advances in Markov chain Monte Carlo (MCMC) sampling allow inference on increasingly complex models. This class of MCMC, known as Hamiltonian Monte Carlo, requires gradient information which is often not readily available. PyMC3 is a new open source probabilistic programming framework written in Python that uses Theano to compute gradients via automatic differentiation as well as compile probabilistic programs on-the-fly to C for increased speed. Contrary to other probabilistic programming languages, PyMC3 allows model specification directly in Python code. The lack of a domain specific language allows for great flexibility and direct interaction with the model. This paper is a tutorial-style introduction to this software package.
+DA  - 2016/04/06/
+PY  - 2016
+DO  - 10.7717/peerj-cs.55
+DP  - DOI.org (Crossref)
+VL  - 2
+SP  - e55
+LA  - en
+SN  - 2376-5992
+UR  - https://peerj.com/articles/cs-55
+Y2  - 2021/11/20/23:50:58
+L1  - https://peerj.com/articles/cs-55.pdf
+ER  - 
+
+TY  - JOUR
+TI  - Efficient parameter learning of Bayesian network classifiers
+AU  - Zaidi, Nayyar A.
+AU  - Webb, Geoffrey I.
+AU  - Carman, Mark J.
+AU  - Petitjean, François
+AU  - Buntine, Wray
+AU  - Hynes, Mike
+AU  - De Sterck, Hans
+T2  - Machine Learning
+DA  - 2017/10//
+PY  - 2017
+DO  - 10.1007/s10994-016-5619-z
+DP  - DOI.org (Crossref)
+VL  - 106
+IS  - 9-10
+SP  - 1289
+EP  - 1329
+J2  - Mach Learn
+LA  - en
+SN  - 0885-6125, 1573-0565
+UR  - http://link.springer.com/10.1007/s10994-016-5619-z
+Y2  - 2021/11/21/18:42:35
+L1  - https://link-springer-com.proxy.lib.umich.edu/content/pdf/10.1007/s10994-016-5619-z.pdf
+ER  - 
+
+TY  - JOUR
+TI  - A survey on Bayesian network structure learning from data
+AU  - Scanagatta, Mauro
+AU  - Salmerón, Antonio
+AU  - Stella, Fabio
+T2  - Progress in Artificial Intelligence
+AB  - A necessary step in the development of artiﬁcial intelligence is to enable a machine to represent how the world works, building an internal structure from data. This structure should hold a good trade-off between expressive power and querying efﬁciency. Bayesian networks have proven to be an effective and versatile tool for the task at hand. They have been applied to modeling knowledge in a variety of ﬁelds, ranging from bioinformatics to law, from image processing to economic risk analysis. A crucial aspect is learning the dependency graph of a Bayesian network from data. This task, called structure learning, is NP-hard and is the subject of intense, cutting-edge research. In short, it can be thought of as choosing one graph over the many candidates, grounding our reasoning over a collection of samples of the distribution generating the data. The number of possible graphs increases very quickly at the increase in the number of variables. Searching in this space, and selecting a graph over the others, becomes quickly burdensome. In this survey, we review the most relevant structure learning algorithms that have been proposed in the literature. We classify them according to the approach they follow for solving the problem and we also show alternatives for handling missing data and continuous variable. An extensive review of existing software tools is also given.
+DA  - 2019/12//
+PY  - 2019
+DO  - 10.1007/s13748-019-00194-y
+DP  - DOI.org (Crossref)
+VL  - 8
+IS  - 4
+SP  - 425
+EP  - 439
+J2  - Prog Artif Intell
+LA  - en
+SN  - 2192-6352, 2192-6360
+UR  - http://link.springer.com/10.1007/s13748-019-00194-y
+Y2  - 2021/11/21/18:44:29
+L1  - https://link-springer-com.proxy.lib.umich.edu/content/pdf/10.1007/s13748-019-00194-y.pdf
+ER  - 
+
+TY  - BOOK
+TI  - Machine Learning and Knowledge Discovery in Databases: European Conference, ECML PKDD 2012, Bristol, UK, September 24-28, 2012. Proceedings, Part I
+T2  - Lecture Notes in Computer Science
+A2  - Hutchison, David
+A2  - Kanade, Takeo
+A2  - Kittler, Josef
+A2  - Kleinberg, Jon M.
+A2  - Mattern, Friedemann
+A2  - Mitchell, John C.
+A2  - Naor, Moni
+A2  - Nierstrasz, Oscar
+A2  - Pandu Rangan, C.
+A2  - Steffen, Bernhard
+A2  - Sudan, Madhu
+A2  - Terzopoulos, Demetri
+A2  - Tygar, Doug
+A2  - Vardi, Moshe Y.
+A2  - Weikum, Gerhard
+A3  - Flach, Peter A.
+A3  - De Bie, Tijl
+A3  - Cristianini, Nello
+CY  - Berlin, Heidelberg
+DA  - 2012///
+PY  - 2012
+DP  - DOI.org (Crossref)
+VL  - 7523
+LA  - en
+PB  - Springer Berlin Heidelberg
+SN  - 978-3-642-33459-7 978-3-642-33460-3
+ST  - Machine Learning and Knowledge Discovery in Databases
+UR  - http://link.springer.com/10.1007/978-3-642-33460-3
+Y2  - 2021/11/21/18:48:45
+L1  - https://link-springer-com.proxy.lib.umich.edu/content/pdf/10.1007%2F978-3-642-33460-3.pdf
+ER  - 
+
+TY  - JOUR
+TI  - A hybrid approach for identifying the structure of a Bayesian network model
+AU  - Huang, Lida
+AU  - Cai, Guoray
+AU  - Yuan, Hongyong
+AU  - Chen, Jianguo
+T2  - Expert Systems with Applications
+AB  - Bayesian network (BN) has been widely used in modeling expert knowledge and reasoning in many application domains, due to its power of representing probabilistic knowledge over a set of interacting variables under significant uncertain. However, the actual construction of a Bayesian network model for a domain remains to be a challenging task since it involves learning the causal structure and the conditional probability table of BN variables from experts, and/or observational data. In this paper, we explore the unique challenge of applying Bayesian network to model how public safety officials represent and reason about threats of evolving mass protest. Anticipating threats of mass protests is crucial for choosing proper intervention strategies, but it is also inherently difficult because a large number of interacting factors contribute to the dynamics of protests with high uncertainty and contingency. In constructing the BN model for this complex domain, we found that traditional methods of discovering BN structure either from data or experts are inadequate, due to the scarcity of data and the highly stochastic nature of mass protest events. Instead, we proposed a hybrid approach (called “ISM-K2”) which enhances the BN structure learning methods (K2 algorithm) by expert knowledge elicited using the ISM (interpretive structural model) method. We show that the BN model constructed using ISM-K2 approach is superior than three other base-line models (the logistic regression model, the BN constructed only by expert knowledge from ISM, and the BN constructed only by data learning). Finally, we show the potential of using our BN threat assessment model for supporting practical policing decisions.
+DA  - 2019/10/01/
+PY  - 2019
+DO  - 10.1016/j.eswa.2019.04.060
+DP  - ScienceDirect
+VL  - 131
+SP  - 308
+EP  - 320
+J2  - Expert Systems with Applications
+LA  - en
+SN  - 0957-4174
+UR  - https://www.sciencedirect.com/science/article/pii/S0957417419302969
+Y2  - 2021/11/21/18:51:02
+KW  - Bayesian network
+KW  - Interpretive structural modeling
+KW  - Mass protests
+KW  - Structure learning
+KW  - Threat assessment
+ER  - 
+
+TY  - BOOK
+TI  - Encyclopedia of environmetrics
+A3  - El-Shaarawi, A. H.
+A3  - Piegorsch, Walter W.
+CN  - GE45.S73 E53 2002
+CY  - Chichester ; New York
+DA  - 2002///
+PY  - 2002
+DP  - Library of Congress ISBN
+SP  - 4
+LA  - en
+PB  - Wiley
+SN  - 978-0-471-89997-6
+L1  - http://www.stat.columbia.edu/~gelman/research/published/p039-_o.pdf
+KW  - Statistical methods
+KW  - Encyclopedias
+KW  - Environmental sciences
+KW  - Methodology
+ER  - 
+
+TY  - ELEC
+TI  - Supported Data Types — pgmpy 0.1.15 documentation
+UR  - https://pgmpy.org/index.html
+Y2  - 2021/11/22/21:18:59
+L2  - https://pgmpy.org/index.html
+ER  - 
+
+TY  - CONF
+TI  - pgmpy: Probabilistic Graphical Models using Python
+AU  - Ankan, Ankur
+AU  - Panda, Abinash
+T2  - Python in Science Conference
+AB  - Probabilistic Graphical Models (PGM) is a technique of compactly representing a joint distribution by exploiting dependencies between the random variables. It also allows us to do inference on joint distributions in a computationally cheaper way than the traditional methods. PGMs are widely used in the ﬁeld of speech recognition, information extraction, image segmentation, modelling gene regulatory networks.
+C1  - Austin, Texas
+DA  - 2015///
+PY  - 2015
+DO  - 10.25080/Majora-7b98e3ed-001
+DP  - DOI.org (Crossref)
+SP  - 6
+EP  - 11
+LA  - en
+ST  - pgmpy
+UR  - https://conference.scipy.org/proceedings/scipy2015/ankur_ankan.html
+Y2  - 2021/11/22/21:39:42
+L1  - http://conference.scipy.org/proceedings/scipy2015/pdfs/ankur_ankan.pdf
+ER  - 
+
