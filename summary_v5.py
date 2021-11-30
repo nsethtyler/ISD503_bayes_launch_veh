@@ -172,8 +172,6 @@ if plot_launch_counts or plot_all:
     df = pd.read_excel(datafile, sheet_name=datatab,engine="openpyxl")
     df.set_index('Year')
 
-    # Adjust data
-    # df['Date'] = pd.to_datetime(df['Date'])
 
     fig, ax = plt.subplots()
     # by_year = sns.barplot(x='Year', y='Annual Total Launches', data = df, color ='#00274C') #Michigan Blue
@@ -199,8 +197,6 @@ if plot_launch_mftr or plot_all:
     df = pd.read_excel(datafile, sheet_name=datatab,engine="openpyxl")
     df.set_index('Launch Shares - DeID\'d MFR')
 
-    # Adjust data
-    # df['Date'] = pd.to_datetime(df['Date'])
 
     fig, ax = plt.subplots()
     # by_year = sns.barplot(x='Year', y='Annual Total Launches', data = df, color ='#00274C') #Michigan Blue
@@ -319,9 +315,7 @@ if plot_mftr_perf or plot_all:
     ax.yaxis.set_ticklabels([])
     plt.title('Total Launch Attempts Per Manufacturer (1998-2020)')
     plt.tight_layout()
-    # for index, row in plot_df.iterrows():
-    #     print(index)
-    #     ax.text(index,row['launches'],row['mftr'], ha='center',fontsize=7)
+
     ax.xaxis.grid(True)
     plt.show()
         
@@ -388,9 +382,6 @@ def cutset_evaluation_spec_veh(target=20, write_csv=False):
         filename='cutset_eval_spec_veh_'+str(target)+'.csv'
         print('Writing to:',filename)
         rslt_df.to_csv(filename, index=False)
-
-
-
 
 
 cutset_evaluation_spec_veh(target=5, write_csv=True)
