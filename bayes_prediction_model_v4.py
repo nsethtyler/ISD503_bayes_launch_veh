@@ -27,12 +27,6 @@ powder_blue = '#E7F3F6'
 
 verbose = 0
 
-# Old model, "self built"
-# def beta_dist(alpha, beta):
-# 	x = np.linspace(0, 1, num=100)
-# 	cap_Beta = (gamma(alpha+beta) / (gamma(alpha)*gamma(beta)))
-# 	dist = (x**(alpha-1))*((1-x)**(beta-1)) / cap_Beta
-# 	return dist
 
 def fix_axis():
 	plt.ylabel(r'$\it{p(}$$\theta$)')
@@ -91,7 +85,6 @@ def calc_prior(prior_successes, prior_failures, new_successes, new_failures):
 	posterior_upper_cred_int = btdtri(posterior_alpha, posterior_beta, upper_bound_limit)
 
 
-	# return x, prior_y, posterior_y, prior_mean, prior_var, prior_skew, prior_kurt, posterior_mean, posterior_var, posterior_skew, posterior_kurt, prior_MLE, posterior_MLE, prior_lower_cred_int, prior_upper_cred_int, posterior_lower_cred_int, posterior_upper_cred_int
 	return x, prior_y, posterior_y, prior_MLE, posterior_MLE, bayes_map_prior_x, bayes_map_posterior_x, prior_lower_cred_int, prior_upper_cred_int, posterior_lower_cred_int, posterior_upper_cred_int
 
 
@@ -108,8 +101,6 @@ def plot_betas(x, prior_y, posterior_y, posterior_MLE, bayes_map_posterior_x, po
 	plt.axvline(posterior_MLE, color='red',linestyle='--', label=posterior_MLE_info)
 	plt.axvline(bayes_map_posterior_x, color='orange',linestyle='--', label=bayes_map_posterior_x_info)
 
-	# plt.axvline(posterior_lower_cred_int, color='coral',linestyle='--', label='0.05')
-	# plt.axvline(posterior_upper_cred_int, color='coral',linestyle='--', label='0.95')
 	legend = plt.legend(loc='best', shadow=True, fontsize='large')
 	if len(title) > 3:
 		title_string = str(title)
@@ -132,30 +123,6 @@ df = pd.read_excel(datafile, sheet_name=datatab,engine="openpyxl")
 
 df = df.reset_index()
 
-
-### Examples / Reminders
-# prior_successes = 0
-# prior_failures = 0
-
-# new_successes = 0
-# new_failures = 0
-
-
-# # Finding the Max successes:
-# index = df[ df['Tot_Success'] == df['Tot_Success'].max() ].index
-
-# # Finding the specific company:
-# company_of_interest = 'TsSKB-Progress, Chemical Automatics Design Bereau'
-# index = df.index[(df['Launch Shares - Mftr']==company_of_interest)]
-
-
-# # Using the selected company (index) to plot
-# company = df.iloc[index,1].to_string(index=False)
-# company_successes=df['Tot_Success'].loc[index]
-# company_failures=df['Tot_Failure'].loc[index]
-
-# new_successes = int(company_successes)
-# new_failures = int(company_failures)
 
 
 plots_or_not = 0
@@ -361,41 +328,6 @@ datatab = 'All'
 df = pd.read_excel(datafile, sheet_name=datatab,engine="openpyxl")
 
 df = df.reset_index()
-
-
-
-
-# rslt_df = pd.DataFrame()
-# plot_df = pd.DataFrame()
-
-# plot_df = pd.DataFrame(columns=['mftr','launches','successes','failures'])
-# fig, ax = plt.subplots()
-# y_pos = 0
-
-# mftr_list = []
-# successes = []
-# failures = []
-# launches = []
-
-# Manufacturers=df['Veh_Mfctr'].unique()
-# Manufacturers.sort()
-# for mftr in Manufacturers:
-#     if verbose: print(mftr)
-#     rslt_df = df.loc[df['Veh_Mfctr']==mftr]
-#     mftr_list.append(mftr)
-
-
-#     rslt_df.set_index('Date')
-#     successes = max(rslt_df['Success_Bool'].cumsum())
-#     failures = max(rslt_df['Failure_Bool'].cumsum())
-#     plot_df = plot_df.append({'mftr': mftr,'successes':successes ,'failures':failures}, ignore_index=True)
-
-
-# plot_df['launches'] = plot_df['successes'] + plot_df['failures']
-
-
-
-
 
 
 
