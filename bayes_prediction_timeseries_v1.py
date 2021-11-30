@@ -35,14 +35,6 @@ datafile = '../08-Datasets/Aggregated_SLR_Dataset_v4.xlsx'
 
 
 
-# Old model, "self built"
-# def beta_dist(alpha, beta):
-# 	x = np.linspace(0, 1, num=100)
-# 	cap_Beta = (gamma(alpha+beta) / (gamma(alpha)*gamma(beta)))
-# 	dist = (x**(alpha-1))*((1-x)**(beta-1)) / cap_Beta
-# 	return dist
-
-
 def calc_betas(successes, failures):
 	'''
 	Returns the PDF and relevant stats given number of past and new successes
@@ -151,14 +143,6 @@ else:
 	plt.show()
 
 
-
-
-
-
-
-
-
-
 # By Manufacturer
 if show_all_companies:
 
@@ -175,14 +159,11 @@ if show_all_companies:
 		rslt_df['pandas_MLE']=rslt_df['pandas_failure']/(rslt_df['pandas_failure']+rslt_df['pandas_success'])
 
 		for index,row in rslt_df.iterrows():
-			# row['lower_cred_int'], row['upper_cred_int'] = calc_betas(int(row['pandas_success']),int(row['pandas_failure']))
-			# print(row['pandas_success'], row['pandas_failure'])
 			success_count = row['pandas_success']
 			failure_count = row['pandas_failure']
 			lower_cred_int, upper_cred_int = calc_betas(success_count,failure_count)
 			rslt_df.loc[index,'lower_cred_int']=lower_cred_int
 			rslt_df.loc[index,'upper_cred_int']=upper_cred_int
-			# print(lower_cred_int, row['lower_cred_int'])
 
 		rslt_df['lower_cred_int'].fillna(0)
 		rslt_df['upper_cred_int'].fillna(1)
@@ -242,7 +223,6 @@ df = pd.read_excel(datafile, sheet_name=sheet,engine="openpyxl")
 df.set_index('Date')
 
 df = df.reset_index()
-# df['Date'] = pd.to_datetime(df['Date'])
 
 
 rslt_df=df.copy()
@@ -253,14 +233,12 @@ rslt_df['pandas_failure']=rslt_df['Failures'].cumsum(axis=0)
 rslt_df['pandas_MLE']=rslt_df['pandas_failure']/(rslt_df['pandas_failure']+rslt_df['pandas_success'])
 
 for index,row in rslt_df.iterrows():
-    # row['lower_cred_int'], row['upper_cred_int'] = calc_betas(int(row['pandas_success']),int(row['pandas_failure']))
-    # print(row['pandas_success'], row['pandas_failure'])
+
     success_count = row['pandas_success']
     failure_count = row['pandas_failure']
     lower_cred_int, upper_cred_int = calc_betas(success_count,failure_count)
     rslt_df.loc[index,'lower_cred_int']=lower_cred_int
     rslt_df.loc[index,'upper_cred_int']=upper_cred_int
-    # print(lower_cred_int, row['lower_cred_int'])
 
 rslt_df['lower_cred_int'].fillna(0)
 rslt_df['upper_cred_int'].fillna(1)
@@ -271,9 +249,6 @@ fig, axs = plt.subplots(2,1)
 axs[0].plot(rslt_df['Date'],rslt_df['pandas_success']+rslt_df['pandas_failure'])
 axs[0].grid(True)
 axs[0].set_ylabel('Launch Attempts')
-# for index,row in rslt_df.iterrows():
-#     if row['Failure_Bool']:
-#         axs[0].scatter(row['Date'],row['pandas_success']+row['pandas_failure'], 120, color='red', marker='+')
 
 axs[1].plot(rslt_df['Date'],rslt_df['pandas_MLE'], label='MLE')
 axs[1].plot(rslt_df['Date'],rslt_df['lower_cred_int'], linestyle='--', color='red')
